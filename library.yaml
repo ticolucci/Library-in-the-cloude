@@ -1,1 +1,3502 @@
+library:
+- title: 'The Wandering Inn: Volume 1'
+  author: Pirateaba
+  year: 2018
+  series: The Wandering Inn
+  series_number: 1
+  rating: 10
+  status: read
+  date_read: '2018'
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 43.0
+  potential_reread: false
+- title: 'The Wandering Inn: Volume 2'
+  author: Pirateaba
+  year: 2019
+  series: The Wandering Inn
+  series_number: 2
+  rating: 10
+  status: read
+  date_read: '2019'
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 61.0
+  potential_reread: false
+- title: Flowers of Esthelm
+  author: Pirateaba
+  year: 2020
+  series: The Wandering Inn
+  series_number: 3
+  rating: 10
+  status: read
+  date_read: '2020'
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 54.0
+  potential_reread: false
+- title: Gravesong
+  author: Pirateaba
+  year: 2024
+  series: The Singer of Terandria
+  series_number: 1
+  rating: 8
+  status: read
+  date_read: '2024'
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 24.0
+  potential_reread: false
+- title: Huntsong
+  author: Pirateaba
+  year: 2024
+  series: The Singer of Terandria
+  series_number: 2
+  rating: 8
+  status: read
+  date_read: '2024'
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 24.0
+  potential_reread: false
+- title: Ghostsong
+  author: Pirateaba
+  year: 2025
+  series: The Singer of Terandria
+  series_number: 3
+  rating: 8
+  status: read
+  date_read: '2025'
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 24.0
+  potential_reread: false
+- title: Elantris
+  author: Brandon Sanderson
+  year: 2005
+  series: Elantris
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - hard-magic
+  - cosmere
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 17.5
+  potential_reread: false
+- title: 'Mistborn: The Final Empire'
+  author: Brandon Sanderson
+  year: 2006
+  series: Mistborn Era 1
+  series_number: 1
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - hard-magic
+  - heist
+  - cosmere
+  reread: true
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 24.0
+  potential_reread: false
+- title: The Well of Ascension
+  author: Brandon Sanderson
+  year: 2007
+  series: Mistborn Era 1
+  series_number: 2
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - hard-magic
+  - cosmere
+  reread: true
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 29.0
+  potential_reread: false
+- title: The Hero of Ages
+  author: Brandon Sanderson
+  year: 2008
+  series: Mistborn Era 1
+  series_number: 3
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - hard-magic
+  - cosmere
+  reread: true
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 28.0
+  potential_reread: false
+- title: Warbreaker
+  author: Brandon Sanderson
+  year: 2009
+  series: Warbreaker
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - hard-magic
+  - cosmere
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 24.0
+  potential_reread: false
+- title: The Way of Kings
+  author: Brandon Sanderson
+  year: 2010
+  series: The Stormlight Archive
+  series_number: 1
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - hard-magic
+  - cosmere
+  - military-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 45.5
+  potential_reread: false
+- title: Words of Radiance
+  author: Brandon Sanderson
+  year: 2014
+  series: The Stormlight Archive
+  series_number: 2
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - hard-magic
+  - cosmere
+  - military-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 48.5
+  potential_reread: false
+- title: Edgedancer
+  author: Brandon Sanderson
+  year: 2016
+  series: The Stormlight Archive
+  series_number: 2.5
+  universe: Cosmere
+  book_format: novella
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - hard-magic
+  - cosmere
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 6.5
+  potential_reread: false
+- title: Oathbringer
+  author: Brandon Sanderson
+  year: 2017
+  series: The Stormlight Archive
+  series_number: 3
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - hard-magic
+  - cosmere
+  - military-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 55.5
+  potential_reread: false
+- title: Dawnshard
+  author: Brandon Sanderson
+  year: 2020
+  series: The Stormlight Archive
+  series_number: 3.5
+  universe: Cosmere
+  book_format: novella
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - hard-magic
+  - cosmere
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 5.0
+  potential_reread: false
+- title: Rhythm of War
+  author: Brandon Sanderson
+  year: 2020
+  series: The Stormlight Archive
+  series_number: 4
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - hard-magic
+  - cosmere
+  - military-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 57.5
+  potential_reread: false
+- title: Wind and Truth
+  author: Brandon Sanderson
+  year: 2024
+  series: The Stormlight Archive
+  series_number: 5
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - hard-magic
+  - cosmere
+  - military-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 50.0
+  potential_reread: false
+- title: The Alloy of Law
+  author: Brandon Sanderson
+  year: 2011
+  series: Mistborn Era 2
+  series_number: 1
+  universe: Cosmere
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - hard-magic
+  - western
+  - cosmere
+  reread: false
+  genre: fantasy
+  sub_genre: western-fantasy
+  audiobook_hours: 10.5
+  potential_reread: false
+- title: Shadows of Self
+  author: Brandon Sanderson
+  year: 2015
+  series: Mistborn Era 2
+  series_number: 2
+  universe: Cosmere
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - hard-magic
+  - western
+  - cosmere
+  reread: false
+  genre: fantasy
+  sub_genre: western-fantasy
+  audiobook_hours: 11.0
+  potential_reread: false
+- title: The Bands of Mourning
+  author: Brandon Sanderson
+  year: 2016
+  series: Mistborn Era 2
+  series_number: 3
+  universe: Cosmere
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - hard-magic
+  - western
+  - cosmere
+  reread: false
+  genre: fantasy
+  sub_genre: western-fantasy
+  audiobook_hours: 15.0
+  potential_reread: false
+- title: The Lost Metal
+  author: Brandon Sanderson
+  year: 2022
+  series: Mistborn Era 2
+  series_number: 4
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - hard-magic
+  - western
+  - cosmere
+  reread: false
+  genre: fantasy
+  sub_genre: western-fantasy
+  audiobook_hours: 18.5
+  potential_reread: false
+- title: 'Arcanum Unbounded: The Cosmere Collection'
+  author: Brandon Sanderson
+  year: 2016
+  series: Cosmere
+  universe: Cosmere
+  book_format: short story collection
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - hard-magic
+  - cosmere
+  - short-stories
+  reread: false
+  genre: fantasy
+  sub_genre: short-stories
+  audiobook_hours: 22.5
+  potential_reread: false
+- title: White Sand Vol. 1
+  author: Brandon Sanderson
+  year: 2016
+  series: White Sand
+  series_number: 1
+  universe: Cosmere
+  book_format: graphic novel
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - hard-magic
+  - cosmere
+  reread: false
+  genre: fantasy
+  sub_genre: graphic-novel
+  audiobook_hours: 4.0
+  potential_reread: false
+- title: White Sand Vol. 2
+  author: Brandon Sanderson
+  year: 2018
+  series: White Sand
+  series_number: 2
+  universe: Cosmere
+  book_format: graphic novel
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - hard-magic
+  - cosmere
+  reread: false
+  genre: fantasy
+  sub_genre: graphic-novel
+  audiobook_hours: 3.5
+  potential_reread: false
+- title: White Sand Vol. 3
+  author: Brandon Sanderson
+  year: 2019
+  series: White Sand
+  series_number: 3
+  universe: Cosmere
+  book_format: graphic novel
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - hard-magic
+  - cosmere
+  reread: false
+  genre: fantasy
+  sub_genre: graphic-novel
+  audiobook_hours: 3.5
+  potential_reread: false
+- title: Tress of the Emerald Sea
+  author: Brandon Sanderson
+  year: 2023
+  series: Secret Projects
+  series_number: 1
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - hard-magic
+  - cosmere
+  - adventure
+  reread: false
+  genre: fantasy
+  sub_genre: adventure-fantasy
+  audiobook_hours: 12.5
+  potential_reread: false
+- title: Yumi and the Nightmare Painter
+  author: Brandon Sanderson
+  year: 2023
+  series: Secret Projects
+  series_number: 2
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - hard-magic
+  - cosmere
+  - romance
+  reread: false
+  genre: fantasy
+  sub_genre: romance-fantasy
+  audiobook_hours: 12.0
+  potential_reread: false
+- title: The Sunlit Man
+  author: Brandon Sanderson
+  year: 2023
+  series: Secret Projects
+  series_number: 3
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - hard-magic
+  - cosmere
+  - sci-fi
+  reread: false
+  genre: fantasy
+  sub_genre: sci-fantasy
+  audiobook_hours: 10.5
+  potential_reread: false
+- title: Isles of the Emberdark
+  author: Brandon Sanderson
+  year: 2025
+  series: Secret Projects
+  series_number: 4
+  universe: Cosmere
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - hard-magic
+  - cosmere
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 11.0
+  potential_reread: false
+- title: Steelheart
+  author: Brandon Sanderson
+  year: 2013
+  series: The Reckoners
+  series_number: 1
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - superheroes
+  - dystopian
+  - ya
+  reread: false
+  genre: sci-fi
+  sub_genre: superhero
+  audiobook_hours: 12.0
+  potential_reread: false
+- title: Firefight
+  author: Brandon Sanderson
+  year: 2015
+  series: The Reckoners
+  series_number: 2
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - superheroes
+  - dystopian
+  - ya
+  reread: false
+  genre: sci-fi
+  sub_genre: superhero
+  audiobook_hours: 12.0
+  potential_reread: false
+- title: Calamity
+  author: Brandon Sanderson
+  year: 2016
+  series: The Reckoners
+  series_number: 3
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - superheroes
+  - dystopian
+  - ya
+  reread: false
+  genre: sci-fi
+  sub_genre: superhero
+  audiobook_hours: 12.0
+  potential_reread: false
+- title: Alcatraz Versus the Evil Librarians
+  author: Brandon Sanderson
+  year: 2007
+  series: Alcatraz
+  series_number: 1
+  series_status: plan-to-continue
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - middle-grade
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: middle-grade
+  audiobook_hours: 4.5
+  potential_reread: false
+- title: Alcatraz Versus the Scrivener's Bones
+  author: Brandon Sanderson
+  year: 2008
+  series: Alcatraz
+  series_number: 2
+  series_status: plan-to-continue
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - middle-grade
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: middle-grade
+  audiobook_hours: 5.0
+  potential_reread: false
+- title: Alcatraz Versus the Knights of Crystallia
+  author: Brandon Sanderson
+  year: 2009
+  series: Alcatraz
+  series_number: 3
+  series_status: plan-to-continue
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - middle-grade
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: middle-grade
+  audiobook_hours: 5.5
+  potential_reread: false
+- title: He Who Fights With Monsters
+  author: Shirtaloon
+  year: 2021
+  series: He Who Fights With Monsters
+  series_number: 1
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - isekai
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 16.0
+  potential_reread: false
+- title: He Who Fights With Monsters 2
+  author: Shirtaloon
+  year: 2021
+  series: He Who Fights With Monsters
+  series_number: 2
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - isekai
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 17.0
+  potential_reread: false
+- title: He Who Fights With Monsters 3
+  author: Shirtaloon
+  year: 2021
+  series: He Who Fights With Monsters
+  series_number: 3
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - isekai
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 18.0
+  potential_reread: false
+- title: He Who Fights With Monsters 4
+  author: Shirtaloon
+  year: 2021
+  series: He Who Fights With Monsters
+  series_number: 4
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - isekai
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 18.5
+  potential_reread: false
+- title: He Who Fights With Monsters 5
+  author: Shirtaloon
+  year: 2022
+  series: He Who Fights With Monsters
+  series_number: 5
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - isekai
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 17.5
+  potential_reread: false
+- title: He Who Fights With Monsters 6
+  author: Shirtaloon
+  year: 2022
+  series: He Who Fights With Monsters
+  series_number: 6
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - isekai
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 18.0
+  potential_reread: false
+- title: He Who Fights With Monsters 7
+  author: Shirtaloon
+  year: 2022
+  series: He Who Fights With Monsters
+  series_number: 7
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - isekai
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 19.0
+  potential_reread: false
+- title: He Who Fights With Monsters 8
+  author: Shirtaloon
+  year: 2022
+  series: He Who Fights With Monsters
+  series_number: 8
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - isekai
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 18.5
+  potential_reread: false
+- title: He Who Fights With Monsters 9
+  author: Shirtaloon
+  year: 2023
+  series: He Who Fights With Monsters
+  series_number: 9
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - isekai
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 19.0
+  potential_reread: false
+- title: He Who Fights With Monsters 10
+  author: Shirtaloon
+  year: 2023
+  series: He Who Fights With Monsters
+  series_number: 10
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - isekai
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 19.0
+  potential_reread: false
+- title: He Who Fights With Monsters 11
+  author: Shirtaloon
+  year: 2024
+  series: He Who Fights With Monsters
+  series_number: 11
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - isekai
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 19.5
+  potential_reread: false
+- title: He Who Fights With Monsters 12
+  author: Shirtaloon
+  year: 2025
+  series: He Who Fights With Monsters
+  series_number: 12
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - isekai
+  - humor
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 19.0
+  potential_reread: false
+- title: Dungeon Crawler Carl
+  author: Matt Dinniman
+  year: 2020
+  series: Dungeon Crawler Carl
+  series_number: 1
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - humor
+  - apocalyptic
+  - progression-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 13.5
+  potential_reread: false
+- title: Carl's Doomsday Scenario
+  author: Matt Dinniman
+  year: 2021
+  series: Dungeon Crawler Carl
+  series_number: 2
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - humor
+  - apocalyptic
+  - progression-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 15.0
+  potential_reread: false
+- title: The Dungeon Anarchist's Cookbook
+  author: Matt Dinniman
+  year: 2021
+  series: Dungeon Crawler Carl
+  series_number: 3
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - humor
+  - apocalyptic
+  - progression-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 17.0
+  potential_reread: false
+- title: The Gate of the Feral Gods
+  author: Matt Dinniman
+  year: 2021
+  series: Dungeon Crawler Carl
+  series_number: 4
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - humor
+  - apocalyptic
+  - progression-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 18.0
+  potential_reread: false
+- title: The Butcher's Masquerade
+  author: Matt Dinniman
+  year: 2022
+  series: Dungeon Crawler Carl
+  series_number: 5
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - humor
+  - apocalyptic
+  - progression-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 20.0
+  potential_reread: false
+- title: The Eye of the Bedlam Bride
+  author: Matt Dinniman
+  year: 2023
+  series: Dungeon Crawler Carl
+  series_number: 6
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - humor
+  - apocalyptic
+  - progression-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 22.0
+  potential_reread: false
+- title: This Inevitable Ruin
+  author: Matt Dinniman
+  year: 2024
+  series: Dungeon Crawler Carl
+  series_number: 7
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - humor
+  - apocalyptic
+  - progression-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 28.5
+  potential_reread: false
+- title: All the Skills
+  author: Honour Rae
+  year: 2022
+  series: All the Skills
+  series_number: 1
+  rating: 8
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - card-magic
+  - dragons
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 11.0
+  potential_reread: false
+- title: All the Skills 2
+  author: Honour Rae
+  year: 2023
+  series: All the Skills
+  series_number: 2
+  rating: 8
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - card-magic
+  - dragons
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 13.0
+  potential_reread: false
+- title: All the Skills 3
+  author: Honour Rae
+  year: 2023
+  series: All the Skills
+  series_number: 3
+  rating: 8
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - card-magic
+  - dragons
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 14.0
+  potential_reread: false
+- title: All the Skills 4
+  author: Honour Rae
+  year: 2024
+  series: All the Skills
+  series_number: 4
+  rating: 8
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - card-magic
+  - dragons
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 14.5
+  potential_reread: false
+- title: All the Skills 5
+  author: Honour Rae
+  year: 2025
+  series: All the Skills
+  series_number: 5
+  rating: 8
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - card-magic
+  - dragons
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 15.0
+  potential_reread: false
+- title: Beware of Chicken
+  author: Casualfarmer
+  year: 2022
+  series: Beware of Chicken
+  series_number: 1
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - xianxia
+  - cultivation
+  - humor
+  - slice-of-life
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: xianxia
+  audiobook_hours: 12.0
+  potential_reread: false
+- title: Beware of Chicken 2
+  author: Casualfarmer
+  year: 2023
+  series: Beware of Chicken
+  series_number: 2
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - xianxia
+  - cultivation
+  - humor
+  - slice-of-life
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: xianxia
+  audiobook_hours: 15.0
+  potential_reread: false
+- title: Beware of Chicken 3
+  author: Casualfarmer
+  year: 2023
+  series: Beware of Chicken
+  series_number: 3
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - xianxia
+  - cultivation
+  - humor
+  - slice-of-life
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: xianxia
+  audiobook_hours: 16.5
+  potential_reread: false
+- title: Beware of Chicken 4
+  author: Casualfarmer
+  year: 2024
+  series: Beware of Chicken
+  series_number: 4
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - xianxia
+  - cultivation
+  - humor
+  - slice-of-life
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: xianxia
+  audiobook_hours: 17.0
+  potential_reread: false
+- title: Unsouled
+  author: Will Wight
+  year: 2016
+  series: Cradle
+  series_number: 1
+  series_status: dnf
+  rating: 6
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - progression-fantasy
+  - cultivation
+  - xianxia
+  reread: false
+  genre: fantasy
+  sub_genre: cultivation
+  audiobook_hours: 8.5
+  potential_reread: false
+- title: Soulsmith
+  author: Will Wight
+  year: 2016
+  series: Cradle
+  series_number: 2
+  series_status: dnf
+  rating: 6
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - progression-fantasy
+  - cultivation
+  - xianxia
+  reread: false
+  genre: fantasy
+  sub_genre: cultivation
+  audiobook_hours: 9.5
+  potential_reread: false
+- title: The Eye of the World
+  author: Robert Jordan
+  year: 1990
+  series: The Wheel of Time
+  series_number: 1
+  series_status: dnf
+  rating: 6
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - chosen-one
+  - classic-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 29.5
+  potential_reread: false
+- title: The Great Hunt
+  author: Robert Jordan
+  year: 1990
+  series: The Wheel of Time
+  series_number: 2
+  series_status: dnf
+  rating: 6
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - chosen-one
+  - classic-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 26.5
+  potential_reread: false
+- title: The Dragon Reborn
+  author: Robert Jordan
+  year: 1991
+  series: The Wheel of Time
+  series_number: 3
+  series_status: dnf
+  rating: 6
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - chosen-one
+  - classic-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 24.0
+  potential_reread: false
+- title: The Shadow of What Was Lost
+  author: James Islington
+  year: 2014
+  series: The Licanius Trilogy
+  series_number: 1
+  series_status: plan-to-continue
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - time-travel
+  - mystery
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 25.0
+  potential_reread: false
+- title: Red Rising
+  author: Pierce Brown
+  year: 2014
+  series: Red Rising Saga
+  series_number: 1
+  series_status: dnf
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - dystopian
+  - space-opera
+  - military-sci-fi
+  reread: false
+  genre: sci-fi
+  sub_genre: space-opera
+  audiobook_hours: 16.0
+  potential_reread: false
+- title: Golden Son
+  author: Pierce Brown
+  year: 2015
+  series: Red Rising Saga
+  series_number: 2
+  series_status: dnf
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - dystopian
+  - space-opera
+  - military-sci-fi
+  reread: false
+  genre: sci-fi
+  sub_genre: space-opera
+  audiobook_hours: 17.0
+  potential_reread: false
+- title: Morning Star
+  author: Pierce Brown
+  year: 2016
+  series: Red Rising Saga
+  series_number: 3
+  series_status: dnf
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - dystopian
+  - space-opera
+  - military-sci-fi
+  reread: false
+  genre: sci-fi
+  sub_genre: space-opera
+  audiobook_hours: 18.0
+  potential_reread: false
+- title: 'Mother of Learning: Arc 1'
+  author: nobody103, Domagoj Kurmaić
+  year: 2019
+  series: Mother of Learning
+  series_number: 1
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - progression-fantasy
+  - time-loop
+  - magic-school
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: progression-fantasy
+  audiobook_hours: 13.5
+  potential_reread: false
+- title: 'Mother of Learning: Arc 2'
+  author: nobody103, Domagoj Kurmaić
+  year: 2020
+  series: Mother of Learning
+  series_number: 2
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - progression-fantasy
+  - time-loop
+  - magic-school
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: progression-fantasy
+  audiobook_hours: 13.0
+  potential_reread: false
+- title: 'Mother of Learning: Arc 3'
+  author: nobody103, Domagoj Kurmaić
+  year: 2021
+  series: Mother of Learning
+  series_number: 3
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - progression-fantasy
+  - time-loop
+  - magic-school
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: progression-fantasy
+  audiobook_hours: 14.0
+  potential_reread: false
+- title: 'Mother of Learning: Arc 4'
+  author: nobody103, Domagoj Kurmaić
+  year: 2022
+  series: Mother of Learning
+  series_number: 4
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - progression-fantasy
+  - time-loop
+  - magic-school
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: progression-fantasy
+  audiobook_hours: 16.0
+  potential_reread: false
+- title: The Bloodline Feud
+  author: Charles Stross
+  year: 2013
+  series: Merchant Princes
+  series_number: 1
+  series_status: undecided
+  book_format: omnibus
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - parallel-worlds
+  - political-thriller
+  reread: false
+  genre: sci-fi
+  sub_genre: parallel-worlds
+  audiobook_hours: 16.0
+  potential_reread: false
+- title: The Traders' War
+  author: Charles Stross
+  year: 2013
+  series: Merchant Princes
+  series_number: 2
+  series_status: undecided
+  book_format: omnibus
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - parallel-worlds
+  - political-thriller
+  reread: false
+  genre: sci-fi
+  sub_genre: parallel-worlds
+  audiobook_hours: 17.0
+  potential_reread: false
+- title: The Revolution Trade
+  author: Charles Stross
+  year: 2013
+  series: Merchant Princes
+  series_number: 3
+  series_status: undecided
+  book_format: omnibus
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - parallel-worlds
+  - political-thriller
+  reread: false
+  genre: sci-fi
+  sub_genre: parallel-worlds
+  audiobook_hours: 16.0
+  potential_reread: false
+- title: All Systems Red
+  author: Martha Wells
+  year: 2017
+  series: The Murderbot Diaries
+  series_number: 1
+  series_status: dnf
+  book_format: novella
+  rating: 5
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - ai
+  - humor
+  - novella
+  reread: false
+  genre: sci-fi
+  sub_genre: space-opera
+  audiobook_hours: 3.5
+  potential_reread: false
+- title: Artificial Condition
+  author: Martha Wells
+  year: 2018
+  series: The Murderbot Diaries
+  series_number: 2
+  series_status: dnf
+  book_format: novella
+  rating: 5
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - ai
+  - humor
+  - novella
+  reread: false
+  genre: sci-fi
+  sub_genre: space-opera
+  audiobook_hours: 3.5
+  potential_reread: false
+- title: House of Earth and Blood
+  author: Sarah J. Maas
+  year: 2020
+  series: Crescent City
+  series_number: 1
+  series_status: dnf
+  rating: 3
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - urban-fantasy
+  - romance
+  - ya
+  reread: false
+  genre: fantasy
+  sub_genre: urban-fantasy
+  audiobook_hours: 27.0
+  potential_reread: false
+- title: Hyperion
+  author: Dan Simmons
+  year: 1989
+  series: Hyperion Cantos
+  series_number: 1
+  series_status: dnf
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - space-opera
+  - literary-sci-fi
+  - classic-sci-fi
+  reread: false
+  genre: sci-fi
+  sub_genre: space-opera
+  audiobook_hours: 21.0
+  potential_reread: false
+- title: The Fall of Hyperion
+  author: Dan Simmons
+  year: 1990
+  series: Hyperion Cantos
+  series_number: 2
+  series_status: dnf
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - space-opera
+  - literary-sci-fi
+  - classic-sci-fi
+  reread: false
+  genre: sci-fi
+  sub_genre: space-opera
+  audiobook_hours: 18.5
+  potential_reread: false
+- title: Death's Mantle
+  author: Harmon Cooper
+  year: 2019
+  series: Death's Mantle
+  series_number: 1
+  series_status: undecided
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - urban-fantasy
+  - progression-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 8.0
+  potential_reread: false
+- title: Dune
+  author: Frank Herbert
+  year: 1965
+  series: Dune
+  series_number: 1
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - classic-sci-fi
+  - political
+  - epic
+  reread: false
+  genre: sci-fi
+  sub_genre: space-opera
+  audiobook_hours: 21.0
+  potential_reread: false
+- title: The Martian
+  author: Andy Weir
+  year: 2011
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - hard-sci-fi
+  - survival
+  - humor
+  reread: false
+  genre: sci-fi
+  sub_genre: hard-sci-fi
+  audiobook_hours: 11.0
+  potential_reread: false
+- title: Project Hail Mary
+  author: Andy Weir
+  year: 2021
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - hard-sci-fi
+  - survival
+  - humor
+  - first-contact
+  reread: false
+  genre: sci-fi
+  sub_genre: hard-sci-fi
+  audiobook_hours: 16.0
+  potential_reread: false
+- title: The Egg and Other Stories
+  author: Andy Weir
+  year: 2013
+  book_format: short story collection
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - short-stories
+  - philosophical
+  reread: false
+  genre: sci-fi
+  sub_genre: short-stories
+  audiobook_hours: 1.5
+  potential_reread: false
+- title: James Moriarty, Consulting Criminal
+  author: Andy Weir
+  year: 2023
+  book_format: short story collection
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - mystery
+  - historical-fiction
+  - short-stories
+  reread: false
+  genre: fiction
+  sub_genre: mystery
+  audiobook_hours: 5.0
+  potential_reread: false
+- title: Good Omens
+  author: Neil Gaiman, Terry Pratchett
+  year: 1990
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - fantasy
+  - humor
+  - satire
+  - apocalyptic
+  reread: false
+  genre: fantasy
+  sub_genre: comic-fantasy
+  audiobook_hours: 12.5
+  potential_reread: false
+- title: Tomorrow, and Tomorrow, and Tomorrow
+  author: Gabrielle Zevin
+  year: 2022
+  rating: 8
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - literary-fiction
+  - gaming
+  - friendship
+  reread: false
+  genre: literary-fiction
+  sub_genre: contemporary
+  audiobook_hours: 13.5
+  potential_reread: false
+- title: Hamnet
+  author: Maggie O'Farrell
+  year: 2020
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - historical-fiction
+  - literary-fiction
+  - family
+  reread: false
+  genre: historical-fiction
+  sub_genre: literary
+  audiobook_hours: 9.5
+  potential_reread: false
+- title: Klara and the Sun
+  author: Kazuo Ishiguro
+  year: 2021
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - literary-fiction
+  - ai
+  - philosophical
+  reread: false
+  genre: literary-fiction
+  sub_genre: speculative
+  audiobook_hours: 10.0
+  potential_reread: false
+- title: Sophie's World
+  author: Jostein Gaarder
+  year: 1991
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - philosophical
+  - literary-fiction
+  - ya
+  - history-of-philosophy
+  reread: false
+  genre: literary-fiction
+  sub_genre: philosophical
+  audiobook_hours: 18.0
+  potential_reread: false
+- title: The Unicorn Project
+  author: Gene Kim
+  year: 2019
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - tech-fiction
+  - devops
+  - software-engineering
+  reread: false
+  genre: fiction
+  sub_genre: tech-fiction
+  audiobook_hours: 12.0
+  potential_reread: false
+- title: Extreme Ownership
+  author: Jocko Willink, Leif Babin
+  year: 2015
+  genre: non-fiction
+  rating: 10
+  status: read
+  date_read: 2020-2024
+  format: audiobook
+  source: audible
+  tags:
+  - leadership
+  - military
+  - management
+  reread: true
+  sub_genre: null
+  audiobook_hours: 9.5
+  potential_reread: false
+- title: The Dichotomy of Leadership
+  author: Jocko Willink, Leif Babin
+  year: 2018
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - leadership
+  - military
+  - management
+  reread: false
+  sub_genre: null
+  audiobook_hours: 8.0
+  potential_reread: false
+- title: The Manager's Path
+  author: Camille Fournier
+  year: 2017
+  genre: non-fiction
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - management
+  - tech-leadership
+  - engineering-management
+  reread: false
+  sub_genre: null
+  audiobook_hours: 10.5
+  potential_reread: false
+- title: Managing Humans
+  author: Michael Lopp
+  year: 2007
+  genre: non-fiction
+  rating: 8
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - management
+  - tech-leadership
+  - engineering-management
+  reread: false
+  sub_genre: null
+  audiobook_hours: 7.5
+  potential_reread: false
+- title: Good Authority
+  author: Jonathan Raymond
+  year: 2016
+  genre: non-fiction
+  rating: null
+  status: dont-remember
+  format: audiobook
+  source: audible
+  tags:
+  - management
+  - feedback
+  - leadership
+  reread: false
+  sub_genre: null
+  audiobook_hours: 6.0
+  potential_reread: false
+- title: Good Strategy/Bad Strategy
+  author: Richard Rumelt
+  year: 2011
+  genre: non-fiction
+  rating: 5
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - strategy
+  - business
+  reread: false
+  sub_genre: null
+  audiobook_hours: 11.5
+  potential_reread: false
+- title: Transformed
+  author: Marty Cagan
+  year: 2023
+  genre: non-fiction
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - product-management
+  - tech
+  - organization
+  reread: false
+  sub_genre: null
+  audiobook_hours: 7.5
+  potential_reread: false
+- title: Culture Wins
+  author: William Vanderbloemen
+  year: 2018
+  genre: non-fiction
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - culture
+  - hiring
+  - leadership
+  reread: false
+  sub_genre: null
+  audiobook_hours: 5.5
+  potential_reread: false
+- title: 7 Powers
+  author: Hamilton Helmer
+  year: 2016
+  genre: non-fiction
+  rating: 8
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - strategy
+  - business
+  - competitive-advantage
+  reread: false
+  sub_genre: null
+  audiobook_hours: 4.0
+  potential_reread: false
+- title: Clean Code
+  author: Robert C. Martin
+  year: 2008
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - software-engineering
+  - programming
+  - best-practices
+  reread: false
+  sub_genre: null
+  audiobook_hours: 11.5
+  potential_reread: false
+- title: Clean Architecture
+  author: Robert C. Martin
+  year: 2017
+  genre: non-fiction
+  rating: 8
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - software-engineering
+  - architecture
+  - best-practices
+  reread: false
+  sub_genre: null
+  audiobook_hours: 7.5
+  potential_reread: false
+- title: Clean Agile
+  author: Robert C. Martin
+  year: 2019
+  genre: non-fiction
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - software-engineering
+  - agile
+  - management
+  reread: false
+  sub_genre: null
+  audiobook_hours: 5.0
+  potential_reread: false
+- title: Steve Jobs
+  author: Walter Isaacson
+  year: 2011
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - biography
+  - tech
+  - innovation
+  - apple
+  reread: false
+  sub_genre: null
+  audiobook_hours: 25.0
+  potential_reread: false
+- title: Elon Musk
+  author: Walter Isaacson
+  year: 2023
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - biography
+  - tech
+  - innovation
+  - space
+  reread: false
+  sub_genre: null
+  audiobook_hours: 20.5
+  potential_reread: false
+- title: The Code Breaker
+  author: Walter Isaacson
+  year: 2021
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - biography
+  - science
+  - genetics
+  - crispr
+  reread: false
+  sub_genre: null
+  audiobook_hours: 17.0
+  potential_reread: false
+- title: Shoe Dog
+  author: Phil Knight
+  year: 2016
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - memoir
+  - business
+  - entrepreneurship
+  - nike
+  reread: false
+  sub_genre: null
+  audiobook_hours: 13.0
+  potential_reread: false
+- title: I Can't Make This Up
+  author: Kevin Hart
+  year: 2017
+  genre: non-fiction
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - memoir
+  - comedy
+  - entertainment
+  reread: false
+  sub_genre: null
+  audiobook_hours: 11.5
+  potential_reread: false
+- title: Friends, Lovers and the Big Terrible Thing
+  author: Matthew Perry
+  year: 2022
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - memoir
+  - addiction
+  - entertainment
+  - recovery
+  reread: false
+  sub_genre: null
+  audiobook_hours: 8.5
+  potential_reread: false
+- title: Will
+  author: Will Smith, Mark Manson
+  year: 2021
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - memoir
+  - entertainment
+  - self-improvement
+  reread: false
+  sub_genre: null
+  audiobook_hours: 16.0
+  potential_reread: false
+- title: A Promised Land
+  author: Barack Obama
+  year: 2020
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - memoir
+  - politics
+  - presidency
+  - history
+  reread: false
+  sub_genre: null
+  audiobook_hours: 29.5
+  potential_reread: false
+- title: Playing to Win
+  author: Michael Lewis
+  year: 2024
+  genre: non-fiction
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - non-fiction
+  - sports
+  - strategy
+  reread: false
+  sub_genre: null
+  audiobook_hours: 11.0
+  potential_reread: false
+- title: Sapiens
+  author: Yuval Noah Harari
+  year: 2011
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - history
+  - anthropology
+  - big-ideas
+  - civilization
+  reread: false
+  sub_genre: null
+  audiobook_hours: 15.0
+  potential_reread: false
+- title: Homo Deus
+  author: Yuval Noah Harari
+  year: 2015
+  genre: non-fiction
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - futurism
+  - big-ideas
+  - technology
+  - philosophy
+  reread: false
+  sub_genre: null
+  audiobook_hours: 14.5
+  potential_reread: false
+- title: Nexus
+  author: Yuval Noah Harari
+  year: 2024
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - technology
+  - ai
+  - information
+  - big-ideas
+  reread: false
+  sub_genre: null
+  audiobook_hours: 14.0
+  potential_reread: false
+- title: Immune
+  author: Philipp Dettmer
+  year: 2021
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - science
+  - biology
+  - health
+  - popular-science
+  reread: false
+  sub_genre: null
+  audiobook_hours: 10.0
+  potential_reread: false
+- title: A Thousand Brains
+  author: Jeff Hawkins
+  year: 2022
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - neuroscience
+  - ai
+  - brain
+  - popular-science
+  reread: false
+  sub_genre: null
+  audiobook_hours: 7.5
+  potential_reread: false
+- title: The Black Swan
+  author: Nassim Nicholas Taleb
+  year: 2007
+  genre: non-fiction
+  rating: 8
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - probability
+  - risk
+  - philosophy
+  - economics
+  reread: false
+  sub_genre: null
+  audiobook_hours: 17.5
+  potential_reread: false
+- title: Thinking, Fast and Slow
+  author: Daniel Kahneman
+  year: 2011
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - psychology
+  - decision-making
+  - behavioral-economics
+  - big-ideas
+  reread: false
+  sub_genre: null
+  audiobook_hours: 20.0
+  potential_reread: false
+- title: Careless People
+  author: Sarah Wynn-Williams
+  year: 2025
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - tech
+  - facebook
+  - whistleblower
+  - politics
+  reread: false
+  sub_genre: null
+  audiobook_hours: 10.0
+  potential_reread: false
+- title: The Toyota Way
+  author: Jeffrey Liker
+  year: 2004
+  genre: non-fiction
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - business
+  - manufacturing
+  - lean
+  - operations
+  reread: false
+  sub_genre: null
+  audiobook_hours: 13.0
+  potential_reread: false
+- title: Beyond the Goal
+  author: Eliyahu Goldratt
+  year: 2005
+  genre: non-fiction
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - business
+  - theory-of-constraints
+  - operations
+  - systems-thinking
+  reread: false
+  sub_genre: null
+  audiobook_hours: 5.5
+  potential_reread: false
+- title: University of Berkshire Hathaway
+  author: Daniel Pecaut, Corey Wrenn
+  year: 2017
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - investing
+  - business
+  - warren-buffett
+  - finance
+  reread: false
+  sub_genre: null
+  audiobook_hours: 12.0
+  potential_reread: false
+- title: Counselling for Toads
+  author: Robert de Board
+  year: 1996
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - psychology
+  - therapy
+  - mental-health
+  - allegory
+  reread: false
+  sub_genre: null
+  audiobook_hours: 4.0
+  potential_reread: false
+- title: Nonviolent Communication
+  author: Marshall Rosenberg
+  year: 2003
+  genre: non-fiction
+  rating: 8
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - communication
+  - psychology
+  - relationships
+  reread: false
+  sub_genre: null
+  audiobook_hours: 5.0
+  potential_reread: false
+- title: Never Split the Difference
+  author: Chris Voss, Tahl Raz
+  year: 2016
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - negotiation
+  - communication
+  - fbi
+  - psychology
+  reread: false
+  sub_genre: null
+  audiobook_hours: 8.0
+  potential_reread: false
+- title: The Power of Self-Compassion
+  author: Laurie J. Cameron
+  year: 2019
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - mindfulness
+  - self-compassion
+  - psychology
+  - wellbeing
+  reread: false
+  sub_genre: null
+  audiobook_hours: 9.0
+  potential_reread: false
+- title: Grit
+  author: Angela Duckworth
+  year: 2016
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - psychology
+  - perseverance
+  - success
+  - motivation
+  reread: false
+  sub_genre: null
+  audiobook_hours: 9.5
+  potential_reread: false
+- title: Range
+  author: David Epstein
+  year: 2019
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - psychology
+  - generalism
+  - learning
+  - success
+  reread: false
+  sub_genre: null
+  audiobook_hours: 10.5
+  potential_reread: false
+- title: Talking to Strangers
+  author: Malcolm Gladwell
+  year: 2019
+  genre: non-fiction
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - psychology
+  - communication
+  - social-science
+  reread: false
+  sub_genre: null
+  audiobook_hours: 8.5
+  potential_reread: false
+- title: The Compound Effect
+  author: Darren Hardy
+  year: 2010
+  genre: non-fiction
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - self-improvement
+  - habits
+  - productivity
+  reread: false
+  sub_genre: null
+  audiobook_hours: 5.0
+  potential_reread: false
+- title: How to Be Perfect
+  author: Mike Schur
+  year: 2022
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - philosophy
+  - ethics
+  - humor
+  reread: false
+  sub_genre: null
+  audiobook_hours: 10.0
+  potential_reread: false
+- title: The Whole-Brain Child
+  author: Daniel J. Siegel, Tina Payne Bryson
+  year: 2011
+  genre: non-fiction
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - parenting
+  - neuroscience
+  - child-development
+  reread: false
+  sub_genre: null
+  audiobook_hours: 6.0
+  potential_reread: false
+- title: No Bad Kids
+  author: Janet Lansbury
+  year: 2014
+  genre: non-fiction
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - parenting
+  - toddlers
+  - respectful-parenting
+  reread: false
+  sub_genre: null
+  audiobook_hours: 3.5
+  potential_reread: false
+- title: Good Inside
+  author: Becky Kennedy
+  year: 2022
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - parenting
+  - psychology
+  - gentle-parenting
+  reread: false
+  sub_genre: null
+  audiobook_hours: 10.0
+  potential_reread: false
+- title: Unconditional Parenting
+  author: Alfie Kohn
+  year: 2005
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - parenting
+  - education
+  - child-development
+  reread: false
+  sub_genre: null
+  audiobook_hours: 8.0
+  potential_reread: false
+- title: Playful Parenting
+  author: Lawrence J. Cohen
+  year: 2001
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - parenting
+  - play
+  - child-development
+  reread: false
+  sub_genre: null
+  audiobook_hours: 9.0
+  potential_reread: false
+- title: O Peso das Dietas
+  author: Sophie Deram
+  year: 2017
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - health
+  - nutrition
+  - intuitive-eating
+  - portuguese
+  reread: false
+  sub_genre: null
+  audiobook_hours: 6.0
+  potential_reread: false
+- title: The Complete Guide to Fasting
+  author: Jimmy Moore, Jason Fung
+  year: 2016
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - health
+  - fasting
+  - nutrition
+  - weight-loss
+  reread: false
+  sub_genre: null
+  audiobook_hours: 7.5
+  potential_reread: false
+- title: The Nordic Theory of Everything
+  author: Anu Partanen
+  year: 2016
+  genre: non-fiction
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - society
+  - politics
+  - nordic-model
+  - culture
+  reread: false
+  sub_genre: null
+  audiobook_hours: 10.0
+  potential_reread: false
+- title: The Myth of the Garage
+  author: Chip Heath
+  year: 2011
+  genre: non-fiction
+  rating: 7
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - psychology
+  - decision-making
+  - essays
+  reread: false
+  sub_genre: essays
+  potential_reread: false
+- title: 'Decisive: How to Make Better Choices in Life and Work'
+  author: Chip Heath, Dan Heath
+  year: 2013
+  genre: non-fiction
+  rating: 9
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - psychology
+  - decision-making
+  reread: false
+  sub_genre: psychology
+  potential_reread: false
+- title: The Five Dysfunctions of a Team
+  author: Patrick Lencioni
+  year: 2002
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - leadership
+  - management
+  - teamwork
+  reread: false
+  sub_genre: leadership
+  potential_reread: false
+- title: The Three-Body Problem
+  author: Cixin Liu
+  year: 2008
+  series: Remembrance of Earth's Past
+  series_number: 1
+  genre: sci-fi
+  rating: 9
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - sci-fi
+  - hard-sci-fi
+  - first-contact
+  - classic-sci-fi
+  reread: false
+  sub_genre: hard-sci-fi
+  potential_reread: false
+- title: The Dark Forest
+  author: Cixin Liu
+  year: 2008
+  series: Remembrance of Earth's Past
+  series_number: 2
+  genre: sci-fi
+  rating: 10
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - sci-fi
+  - hard-sci-fi
+  - first-contact
+  reread: false
+  sub_genre: hard-sci-fi
+  potential_reread: false
+- title: Death's End
+  author: Cixin Liu
+  year: 2010
+  series: Remembrance of Earth's Past
+  series_number: 3
+  genre: sci-fi
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - sci-fi
+  - hard-sci-fi
+  - first-contact
+  reread: false
+  sub_genre: hard-sci-fi
+  potential_reread: false
+- title: Critical Thinking
+  author: Richard Paul, Linda Elder
+  year: 2002
+  genre: non-fiction
+  rating: 8
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - critical-thinking
+  - philosophy
+  - education
+  reread: false
+  sub_genre: philosophy
+  potential_reread: false
+- title: Animal Farm
+  author: George Orwell
+  year: 1945
+  genre: literary-fiction
+  rating: 9
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - classic
+  - satire
+  - political
+  reread: false
+  sub_genre: classic
+  potential_reread: false
+- title: 1984
+  author: George Orwell
+  year: 1949
+  genre: literary-fiction
+  rating: null
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - classic
+  - dystopian
+  - political
+  reread: false
+  sub_genre: classic
+  potential_reread: false
+- title: A Dance with Dragons
+  author: George R.R. Martin
+  year: 2011
+  series: A Song of Ice and Fire
+  series_number: 5
+  genre: fantasy
+  rating: 10
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - epic-fantasy
+  - political
+  - asoiaf
+  reread: false
+  sub_genre: epic-fantasy
+  potential_reread: false
+- title: Presentation Zen
+  author: Garr Reynolds
+  year: 2008
+  genre: non-fiction
+  rating: 7
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - design
+  - communication
+  - presentations
+  reread: false
+  sub_genre: design
+  potential_reread: false
+- title: Pragmatic Thinking and Learning
+  author: Andy Hunt
+  year: 2008
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - learning
+  - software-engineering
+  - psychology
+  reread: false
+  sub_genre: learning
+  potential_reread: false
+- title: The Game
+  author: Neil Strauss
+  year: 2005
+  genre: non-fiction
+  rating: 8
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - memoir
+  - psychology
+  - social-dynamics
+  reread: false
+  sub_genre: memoir
+  potential_reread: false
+- title: Ruby on Rails 4.0 Guide
+  author: Stefan Wintermeyer
+  year: 2013
+  genre: non-fiction
+  rating: 6
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - programming
+  - ruby
+  - rails
+  reread: false
+  sub_genre: technical
+  potential_reread: false
+- title: The Phoenix Project
+  author: Gene Kim, Kevin Behr, George Spafford
+  year: 2013
+  genre: fiction
+  rating: 10
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - tech-fiction
+  - devops
+  - software-engineering
+  reread: false
+  sub_genre: tech-fiction
+  potential_reread: false
+- title: 'Switch: How to Change Things When Change Is Hard'
+  author: Chip Heath, Dan Heath
+  year: 2010
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - psychology
+  - change-management
+  - behavior
+  reread: false
+  sub_genre: psychology
+  potential_reread: false
+- title: Getting Results the Agile Way
+  author: J.D. Meier
+  year: 2010
+  genre: non-fiction
+  rating: 5
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - productivity
+  - agile
+  - self-improvement
+  reread: false
+  sub_genre: productivity
+  potential_reread: false
+- title: Restaurant Owners Uncorked
+  author: Wil Brawley
+  year: 2012
+  genre: non-fiction
+  rating: 6
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - business
+  - restaurant
+  - entrepreneurship
+  reread: false
+  sub_genre: business
+  potential_reread: false
+- title: Restaurant Success by the Numbers
+  author: Roger Fields
+  year: 2007
+  genre: non-fiction
+  rating: 6
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - business
+  - restaurant
+  - finance
+  reread: false
+  sub_genre: business
+  potential_reread: false
+- title: Running Lean
+  author: Ash Maurya
+  year: 2012
+  genre: non-fiction
+  rating: 8
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - entrepreneurship
+  - lean-startup
+  - product-management
+  reread: false
+  sub_genre: entrepreneurship
+  potential_reread: false
+- title: Made to Stick
+  author: Chip Heath, Dan Heath
+  year: 2007
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - communication
+  - psychology
+  - storytelling
+  reread: false
+  sub_genre: communication
+  potential_reread: false
+- title: A Game of Thrones
+  author: George R.R. Martin
+  year: 1996
+  series: A Song of Ice and Fire
+  series_number: 1
+  genre: fantasy
+  rating: 10
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - epic-fantasy
+  - political
+  - asoiaf
+  reread: false
+  sub_genre: epic-fantasy
+  potential_reread: false
+- title: A Clash of Kings
+  author: George R.R. Martin
+  year: 1998
+  series: A Song of Ice and Fire
+  series_number: 2
+  genre: fantasy
+  rating: 10
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - epic-fantasy
+  - political
+  - asoiaf
+  reread: false
+  sub_genre: epic-fantasy
+  potential_reread: false
+- title: A Storm of Swords
+  author: George R.R. Martin
+  year: 2000
+  series: A Song of Ice and Fire
+  series_number: 3
+  genre: fantasy
+  rating: 10
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - epic-fantasy
+  - political
+  - asoiaf
+  reread: false
+  sub_genre: epic-fantasy
+  potential_reread: false
+- title: A Feast for Crows
+  author: George R.R. Martin
+  year: 2005
+  series: A Song of Ice and Fire
+  series_number: 4
+  genre: fantasy
+  rating: 10
+  status: read
+  format: ebook
+  source: kindle
+  tags:
+  - epic-fantasy
+  - political
+  - asoiaf
+  reread: false
+  sub_genre: epic-fantasy
+  potential_reread: false
+- title: The Lean Startup
+  author: Eric Ries
+  year: 2011
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - entrepreneurship
+  - lean-startup
+  - product-management
+  reread: false
+  sub_genre: entrepreneurship
+  potential_reread: false
+- title: Business Model Generation
+  author: Alexander Osterwalder, Yves Pigneur
+  year: 2010
+  genre: non-fiction
+  rating: 8
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - business
+  - strategy
+  - entrepreneurship
+  reread: false
+  sub_genre: strategy
+  potential_reread: false
+- title: The Hitchhiker's Guide to the Galaxy
+  author: Douglas Adams
+  year: 1979
+  series: The Hitchhiker's Guide to the Galaxy
+  series_number: 1
+  genre: sci-fi
+  rating: 10
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - humor
+  - sci-fi
+  - classic-sci-fi
+  reread: false
+  sub_genre: comic-sci-fi
+  potential_reread: true
+- title: The Restaurant at the End of the Universe
+  author: Douglas Adams
+  year: 1980
+  series: The Hitchhiker's Guide to the Galaxy
+  series_number: 2
+  genre: sci-fi
+  rating: 8
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - humor
+  - sci-fi
+  - classic-sci-fi
+  reread: false
+  sub_genre: comic-sci-fi
+  potential_reread: true
+- title: Life, the Universe and Everything
+  author: Douglas Adams
+  year: 1982
+  series: The Hitchhiker's Guide to the Galaxy
+  series_number: 3
+  genre: sci-fi
+  rating: 9
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - humor
+  - sci-fi
+  - classic-sci-fi
+  reread: false
+  sub_genre: comic-sci-fi
+  potential_reread: true
+- title: So Long, and Thanks for All the Fish
+  author: Douglas Adams
+  year: 1984
+  series: The Hitchhiker's Guide to the Galaxy
+  series_number: 4
+  genre: sci-fi
+  rating: 7
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - humor
+  - sci-fi
+  - classic-sci-fi
+  reread: false
+  sub_genre: comic-sci-fi
+  potential_reread: true
+- title: Twilight
+  author: Stephenie Meyer
+  year: 2005
+  series: Twilight
+  series_number: 1
+  genre: fantasy
+  rating: 10
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - paranormal-romance
+  - ya
+  - vampires
+  reread: false
+  sub_genre: paranormal-romance
+  potential_reread: false
+- title: New Moon
+  author: Stephenie Meyer
+  year: 2006
+  series: Twilight
+  series_number: 2
+  genre: fantasy
+  rating: 9
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - paranormal-romance
+  - ya
+  - vampires
+  reread: false
+  sub_genre: paranormal-romance
+  potential_reread: false
+- title: Eclipse
+  author: Stephenie Meyer
+  year: 2007
+  series: Twilight
+  series_number: 3
+  genre: fantasy
+  rating: 8
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - paranormal-romance
+  - ya
+  - vampires
+  reread: false
+  sub_genre: paranormal-romance
+  potential_reread: false
+- title: Breaking Dawn
+  author: Stephenie Meyer
+  year: 2008
+  series: Twilight
+  series_number: 4
+  genre: fantasy
+  rating: 9
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - paranormal-romance
+  - ya
+  - vampires
+  reread: false
+  sub_genre: paranormal-romance
+  potential_reread: false
+- title: The Short Second Life of Bree Tanner
+  author: Stephenie Meyer
+  year: 2010
+  series: Twilight
+  series_number: 4.5
+  book_format: novella
+  genre: fantasy
+  rating: 10
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - paranormal-romance
+  - ya
+  - vampires
+  - novella
+  reread: false
+  sub_genre: paranormal-romance
+  potential_reread: false
+- title: Harry Potter and the Philosopher's Stone
+  author: J.K. Rowling
+  year: 1997
+  series: Harry Potter
+  series_number: 1
+  genre: fantasy
+  rating: 10
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - magic-school
+  - ya
+  - classic-fantasy
+  reread: false
+  sub_genre: magic-school
+  potential_reread: false
+- title: Harry Potter and the Chamber of Secrets
+  author: J.K. Rowling
+  year: 1998
+  series: Harry Potter
+  series_number: 2
+  genre: fantasy
+  rating: 10
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - magic-school
+  - ya
+  - classic-fantasy
+  reread: false
+  sub_genre: magic-school
+  potential_reread: false
+- title: Harry Potter and the Prisoner of Azkaban
+  author: J.K. Rowling
+  year: 1999
+  series: Harry Potter
+  series_number: 3
+  genre: fantasy
+  rating: 10
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - magic-school
+  - ya
+  - classic-fantasy
+  reread: false
+  sub_genre: magic-school
+  potential_reread: false
+- title: Harry Potter and the Goblet of Fire
+  author: J.K. Rowling
+  year: 2000
+  series: Harry Potter
+  series_number: 4
+  genre: fantasy
+  rating: 10
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - magic-school
+  - ya
+  - classic-fantasy
+  reread: false
+  sub_genre: magic-school
+  potential_reread: false
+- title: Harry Potter and the Order of the Phoenix
+  author: J.K. Rowling
+  year: 2003
+  series: Harry Potter
+  series_number: 5
+  genre: fantasy
+  rating: 10
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - magic-school
+  - ya
+  - classic-fantasy
+  reread: false
+  sub_genre: magic-school
+  potential_reread: false
+- title: Harry Potter and the Half-Blood Prince
+  author: J.K. Rowling
+  year: 2005
+  series: Harry Potter
+  series_number: 6
+  genre: fantasy
+  rating: 9
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - magic-school
+  - ya
+  - classic-fantasy
+  reread: false
+  sub_genre: magic-school
+  potential_reread: false
+- title: Harry Potter and the Deathly Hallows
+  author: J.K. Rowling
+  year: 2007
+  series: Harry Potter
+  series_number: 7
+  genre: fantasy
+  rating: 10
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - magic-school
+  - ya
+  - classic-fantasy
+  reread: false
+  sub_genre: magic-school
+  potential_reread: false
+- title: Harry Potter and the Cursed Child
+  author: J.K. Rowling, Jack Thorne, John Tiffany
+  year: 2016
+  series: Harry Potter
+  series_number: 8
+  book_format: play
+  genre: fantasy
+  rating: 9
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - magic-school
+  - ya
+  - classic-fantasy
+  - play
+  reread: false
+  sub_genre: magic-school
+  potential_reread: false
+- title: Artemis Fowl
+  author: Eoin Colfer
+  year: 2001
+  series: Artemis Fowl
+  series_number: 1
+  genre: fantasy
+  rating: 10
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - ya
+  - humor
+  - heist
+  - middle-grade
+  reread: false
+  sub_genre: middle-grade
+  potential_reread: false
+- title: The Arctic Incident
+  author: Eoin Colfer
+  year: 2002
+  series: Artemis Fowl
+  series_number: 2
+  genre: fantasy
+  rating: 9
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - ya
+  - humor
+  - middle-grade
+  reread: false
+  sub_genre: middle-grade
+  potential_reread: false
+- title: The Eternity Code
+  author: Eoin Colfer
+  year: 2003
+  series: Artemis Fowl
+  series_number: 3
+  genre: fantasy
+  rating: 6
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - ya
+  - humor
+  - middle-grade
+  reread: false
+  sub_genre: middle-grade
+  potential_reread: false
+- title: The Opal Deception
+  author: Eoin Colfer
+  year: 2005
+  series: Artemis Fowl
+  series_number: 4
+  genre: fantasy
+  rating: 6
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - ya
+  - humor
+  - middle-grade
+  reread: false
+  sub_genre: middle-grade
+  potential_reread: false
+- title: The Fellowship of the Ring
+  author: J.R.R. Tolkien
+  year: 1954
+  series: The Lord of the Rings
+  series_number: 1
+  series_status: dnf
+  genre: fantasy
+  rating: 7
+  status: read
+  format: physical
+  source: physical
+  tags:
+  - epic-fantasy
+  - classic-fantasy
+  reread: false
+  sub_genre: epic-fantasy
+  potential_reread: false
+- title: The Two Towers
+  author: J.R.R. Tolkien
+  year: 1954
+  series: The Lord of the Rings
+  series_number: 2
+  series_status: dnf
+  genre: fantasy
+  rating: null
+  status: dnf
+  format: physical
+  source: physical
+  tags:
+  - epic-fantasy
+  - classic-fantasy
+  reread: false
+  sub_genre: epic-fantasy
+  potential_reread: false
+- title: The Return of the King
+  author: J.R.R. Tolkien
+  year: 1955
+  series: The Lord of the Rings
+  series_number: 3
+  series_status: dnf
+  genre: fantasy
+  rating: null
+  status: dnf
+  format: physical
+  source: physical
+  tags:
+  - epic-fantasy
+  - classic-fantasy
+  reread: false
+  sub_genre: epic-fantasy
+  potential_reread: false
 
