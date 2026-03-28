@@ -1,1 +1,1275 @@
-
+wishlist:
+- title: Starter Villain
+  author: John Scalzi
+  year: 2023
+  genre: sci-fi
+  sub_genre: comic-sci-fi
+  series: standalone
+  tags:
+  - humor
+  - sci-fi
+  - supervillains
+  audiobook_hours: 8.0
+  priority: high
+  reason: Humor + sci-fi combo, short and punchy. Matches your love of DCC/HWFWM tone.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+- title: Legends & Lattes
+  author: Travis Baldree
+  year: 2022
+  genre: fantasy
+  sub_genre: cozy-fantasy
+  series: standalone
+  tags:
+  - slice-of-life
+  - cozy
+  - humor
+  audiobook_hours: 9.0
+  priority: high
+  reason: Slice-of-life cozy fantasy — same warm vibe as Beware of Chicken.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+- title: A Practical Guide to Sorcery
+  author: Azalea Ellis
+  year: 2022
+  series: A Practical Guide to Sorcery
+  series_number: 1
+  genre: fantasy
+  sub_genre: progression-fantasy
+  tags:
+  - progression-fantasy
+  - hard-magic
+  - web-serial
+  audiobook_hours: 23.0
+  priority: high
+  reason: Hard magic system + progression fantasy. Long series, web-serial origin.
+  source: recommendation
+  series_status: ongoing
+  available_on_audible: true
+- title: Dungeon Diving 101
+  author: Elliot Pepper
+  year: 2023
+  series: Dungeon Diving 101
+  series_number: 1
+  genre: fantasy
+  sub_genre: litrpg
+  tags:
+  - litrpg
+  - progression-fantasy
+  - humor
+  audiobook_hours: 11.0
+  priority: medium
+  reason: Highly rated LitRPG with humor. Shorter entry point to test the series.
+  source: recommendation
+  series_status: ongoing
+  available_on_audible: true
+- title: The Primal Hunter
+  author: Zogarth
+  year: 2022
+  series: The Primal Hunter
+  series_number: 1
+  genre: fantasy
+  sub_genre: litrpg
+  tags:
+  - litrpg
+  - apocalyptic
+  - progression-fantasy
+  audiobook_hours: 17.0
+  priority: medium
+  reason: Apocalyptic LitRPG — similar DCC energy, long ongoing series.
+  source: recommendation
+  series_status: ongoing
+  available_on_audible: true
+- title: Painting the Mists
+  author: Patrick Laplante
+  year: 2022
+  series: Painting the Mists
+  series_number: 1
+  genre: fantasy
+  sub_genre: xianxia
+  tags:
+  - xianxia
+  - cultivation
+  - slice-of-life
+  - humor
+  audiobook_hours: 13.0
+  priority: medium
+  reason: Xianxia with slice-of-life + humor combo, like a Beware of Chicken alternative.
+  source: recommendation
+  series_status: ongoing
+  available_on_audible: true
+- title: Defiance of the Fall
+  author: TheFirstDefier
+  year: 2022
+  series: Defiance of the Fall
+  series_number: 1
+  genre: fantasy
+  sub_genre: litrpg
+  tags:
+  - litrpg
+  - progression-fantasy
+  - apocalyptic
+  audiobook_hours: 16.0
+  priority: low
+  reason: Popular LitRPG/progression, but reportedly lacks humor. Worth a try if queue
+    runs dry.
+  source: recommendation
+  series_status: ongoing
+  available_on_audible: true
+- title: How Minds Change
+  author: David McRaney
+  year: 2022
+  genre: non-fiction
+  sub_genre: psychology
+  series: standalone
+  tags:
+  - psychology
+  - persuasion
+  - social-science
+  audiobook_hours: 9.5
+  priority: high
+  reason: Psychology of belief change. Fits your interest in psychology + big-ideas
+    nonfiction.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+- title: The Anxious Generation
+  author: Jonathan Haidt
+  year: 2024
+  genre: non-fiction
+  sub_genre: psychology
+  series: standalone
+  tags:
+  - psychology
+  - parenting
+  - technology
+  - society
+  audiobook_hours: 11.0
+  priority: high
+  reason: Intersects parenting + psychology + tech — three of your strongest nonfiction
+    interests.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+- title: 'The Creative Act: A Way of Being'
+  author: Rick Rubin
+  year: 2023
+  genre: non-fiction
+  sub_genre: philosophy
+  series: standalone
+  tags:
+  - creativity
+  - philosophy
+  - mindfulness
+  audiobook_hours: 8.5
+  priority: medium
+  reason: Philosophical + mindfulness angle. Short and punchy nonfiction.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+- title: Assassin's Apprentice
+  author: Robin Hobb
+  year: 1995
+  series: Farseer Trilogy
+  series_number: 1
+  genre: fantasy
+  sub_genre: epic-fantasy
+  tags:
+  - epic-fantasy
+  - character-driven
+  audiobook_hours: 15.0
+  priority: medium
+  reason: Beloved epic fantasy series, character-driven and emotionally deep. Risk
+    flag — slow-burn, no humor, protagonist is often deliberately powerless (anti-progression).
+    But high ceiling if it clicks.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: The Will of the Many
+  author: James Islington
+  year: 2023
+  series: Hierarchy
+  series_number: 1
+  genre: fantasy
+  sub_genre: epic-fantasy
+  tags:
+  - epic-fantasy
+  - mystery
+  - political
+  audiobook_hours: 22.0
+  priority: high
+  reason: Same author as The Shadow of What Was Lost (your 9/10). Different series
+    — read after finishing Licanius Trilogy.
+  source: audible-wishlist
+  series_status: ongoing
+  available_on_audible: true
+  note: Read after completing Licanius Trilogy
+- title: Alchemised
+  author: SenLinYu
+  year: 2024
+  series: The Pale Wanderer
+  series_number: 1
+  genre: fantasy
+  sub_genre: xianxia
+  tags:
+  - xianxia
+  - cultivation
+  - web-serial
+  audiobook_hours: 18.0
+  priority: high
+  reason: Xianxia/cultivation web-serial origin with a strong community following.
+    Same origin story as Beware of Chicken and The Wandering Inn.
+  source: audible-wishlist
+  series_status: ongoing
+  available_on_audible: true
+- title: 'My Best Friend Is an Eldritch Horror: Books 1-6'
+  author: Actus
+  year: 2023
+  series: My Best Friend Is an Eldritch Horror
+  series_number: 1
+  genre: fantasy
+  sub_genre: litrpg
+  tags:
+  - litrpg
+  - humor
+  - urban-fantasy
+  audiobook_hours: 40.0
+  priority: medium
+  reason: LitRPG + humor combo, omnibus format means you can binge if it clicks. Similar
+    energy to DCC.
+  source: audible-wishlist
+  series_status: ongoing
+  available_on_audible: true
+- title: Dissonance
+  author: Nicoli Gonnella
+  year: 2023
+  series: The Dissonance
+  series_number: 1
+  genre: fantasy
+  sub_genre: progression-fantasy
+  tags:
+  - progression-fantasy
+  - litrpg
+  audiobook_hours: 16.0
+  priority: medium
+  reason: Well-reviewed progression fantasy with strong Goodreads ratings.
+  source: audible-wishlist
+  series_status: ongoing
+  available_on_audible: true
+- title: Measure What Matters
+  author: John Doerr
+  year: 2018
+  genre: non-fiction
+  sub_genre: leadership
+  series: standalone
+  tags:
+  - leadership
+  - okrs
+  - management
+  - tech
+  audiobook_hours: 7.5
+  priority: high
+  reason: The definitive OKR book. Fits your ops/leadership shelf alongside Toyota
+    Way and Theory of Constraints.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Team of Teams
+  author: General Stanley McChrystal
+  year: 2015
+  genre: non-fiction
+  sub_genre: leadership
+  series: standalone
+  tags:
+  - leadership
+  - military
+  - management
+  - org-design
+  audiobook_hours: 12.0
+  priority: high
+  reason: Military leadership + org design — very similar DNA to Extreme Ownership
+    (your 10/10 reread). McChrystal is Jocko's commanding officer.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Turn The Ship Around!
+  author: L. David Marquet
+  year: 2013
+  genre: non-fiction
+  sub_genre: leadership
+  series: standalone
+  tags:
+  - leadership
+  - military
+  - management
+  audiobook_hours: 6.0
+  priority: high
+  reason: Leadership from a submarine commander — consistently recommended alongside
+    Extreme Ownership. Short and punchy.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Trillion Dollar Coach
+  author: Eric Schmidt, Jonathan Rosenberg, Alan Eagle
+  year: 2019
+  genre: non-fiction
+  sub_genre: leadership
+  series: standalone
+  tags:
+  - leadership
+  - tech
+  - coaching
+  - biography
+  audiobook_hours: 6.5
+  priority: high
+  reason: Leadership memoir about Bill Campbell, who coached Steve Jobs, Larry Page,
+    Eric Schmidt. Bridges your biography + leadership shelves.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Team Topologies
+  author: Matthew Skelton, Manuel Pais
+  year: 2019
+  genre: non-fiction
+  sub_genre: engineering-management
+  series: standalone
+  tags:
+  - engineering-management
+  - org-design
+  - tech-leadership
+  audiobook_hours: 7.0
+  priority: medium
+  reason: Org design for engineering teams. Fits your tech leadership shelf (Clean
+    Code, Manager's Path, Transformed).
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Breakneck
+  author: Dan Wang
+  year: 2024
+  genre: non-fiction
+  sub_genre: big-ideas
+  series: standalone
+  tags:
+  - technology
+  - china
+  - manufacturing
+  - big-ideas
+  audiobook_hours: 14.0
+  priority: medium
+  reason: Deep dive on China's industrial and tech rise. Big-ideas nonfiction in the
+    vein of Sapiens/Nexus.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: The Infinite Game
+  author: Simon Sinek
+  year: 2019
+  genre: non-fiction
+  sub_genre: strategy
+  series: standalone
+  tags:
+  - strategy
+  - leadership
+  - business
+  audiobook_hours: 6.5
+  priority: medium
+  reason: Sinek's best work — finite vs infinite mindset maps well onto your 7 Powers
+    / strategy interests. Much stronger than his other books.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Mythos
+  author: Stephen Fry
+  year: 2017
+  genre: non-fiction
+  sub_genre: mythology
+  series: Mythos
+  series_number: 1
+  tags:
+  - mythology
+  - humor
+  - history
+  audiobook_hours: 15.0
+  priority: medium
+  reason: Greek mythology retold with wit and humor by Stephen Fry. Different from
+    your usual nonfiction but the humor angle is strong.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Emotional Intelligence
+  author: Daniel Goleman
+  year: 1995
+  genre: non-fiction
+  sub_genre: psychology
+  series: standalone
+  tags:
+  - psychology
+  - emotional-intelligence
+  - leadership
+  audiobook_hours: 12.0
+  priority: medium
+  reason: Psychology classic. Fits your shelf alongside Thinking Fast and Slow, Grit,
+    Range.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Escaping the Build Trap
+  author: Melissa Perri
+  year: 2018
+  genre: non-fiction
+  sub_genre: product-management
+  series: standalone
+  tags:
+  - product-management
+  - tech-leadership
+  - strategy
+  audiobook_hours: 4.5
+  priority: medium
+  reason: Product strategy — similar tier to Transformed (your 7/10). Short and direct.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Competing in the Age of AI
+  author: Marco Iansiti, Karim R. Lakhani
+  year: 2020
+  genre: non-fiction
+  sub_genre: strategy
+  series: standalone
+  tags:
+  - ai
+  - strategy
+  - business
+  - tech
+  audiobook_hours: 9.0
+  priority: low
+  reason: AI business strategy. Solid but may feel dated given rapid AI progress.
+    Read Nexus first.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Detour
+  author: Jeff Rake, Rob Hart
+  year: 2026
+  series: Detour
+  series_number: 1
+  genre: sci-fi
+  sub_genre: sci-fi-thriller
+  tags:
+  - sci-fi
+  - thriller
+  - alternate-reality
+  - conspiracy
+  audiobook_hours: 11.0
+  priority: high
+  reason: Described as 'The Martian meets The Twilight Zone' — space mission returns
+    to a subtly altered Earth. Creator of Manifest + Rob Hart. 3.86 on Goodreads with
+    883 ratings. Loved Manifest show — same creator, same DNA.
+  source: audible-wishlist
+  series_status: ongoing
+  available_on_audible: true
+- title: Spare
+  author: Prince Harry
+  year: 2023
+  genre: non-fiction
+  sub_genre: memoir
+  series: standalone
+  tags:
+  - memoir
+  - royalty
+  - mental-health
+  - military
+  audiobook_hours: 15.5
+  priority: medium
+  reason: Harry narrates it himself — same appeal as Will Smith's memoir. Military
+    service, grief, mental health themes fit your shelf. Divisive (3.62 Goodreads)
+    but substantial and deeply personal.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Mark of the Fool
+  author: J.M. Clarke
+  year: 2022
+  series: Mark of the Fool
+  series_number: 1
+  genre: fantasy
+  sub_genre: litrpg
+  tags:
+  - litrpg
+  - progression-fantasy
+  - humor
+  - magic-school
+  audiobook_hours: 16.0
+  priority: high
+  reason: LitRPG/progression with humor and magic school setting. Well-reviewed with
+    605 Audible ratings.
+  source: audible-wishlist
+  series_status: ongoing
+  available_on_audible: true
+- title: 100th Run
+  author: Flossindune
+  year: 2023
+  series: 100th Run
+  series_number: 1
+  genre: fantasy
+  sub_genre: litrpg
+  tags:
+  - litrpg
+  - progression-fantasy
+  - humor
+  audiobook_hours: 11.0
+  priority: medium
+  reason: LitRPG with humor, early positive ratings. Short entry point.
+  source: audible-wishlist
+  series_status: ongoing
+  available_on_audible: true
+- title: The Lies of Locke Lamora
+  author: Scott Lynch
+  year: 2006
+  series: Gentleman Bastard
+  series_number: 1
+  genre: fantasy
+  sub_genre: heist-fantasy
+  tags:
+  - heist
+  - humor
+  - epic-fantasy
+  - thieves
+  audiobook_hours: 22.0
+  priority: high
+  reason: Heist fantasy with sharp humor. If you loved Mistborn's heist angle, this
+    is the purest expression of that in fantasy.
+  source: audible-wishlist
+  series_status: ongoing
+  available_on_audible: true
+- title: Off to Be the Wizard
+  author: Scott Meyer
+  year: 2014
+  series: Magic 2.0
+  series_number: 1
+  genre: fantasy
+  sub_genre: comic-fantasy
+  tags:
+  - humor
+  - fantasy
+  - programmer
+  - time-travel
+  audiobook_hours: 10.0
+  priority: high
+  reason: Comedy fantasy about a programmer who discovers reality is a simulation.
+    Very funny, long series.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: The Colour of Magic
+  author: Terry Pratchett
+  year: 1983
+  series: Discworld
+  series_number: 1
+  genre: fantasy
+  sub_genre: comic-fantasy
+  tags:
+  - humor
+  - satire
+  - epic-fantasy
+  audiobook_hours: 7.0
+  priority: medium
+  reason: You gave Good Omens 7/10 — Pratchett solo is funnier. Entry point to the
+    beloved Discworld series.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Best Served Cold
+  author: Joe Abercrombie
+  year: 2009
+  series: First Law World
+  genre: fantasy
+  sub_genre: grimdark
+  tags:
+  - heist
+  - grimdark
+  - epic-fantasy
+  - standalone
+  audiobook_hours: 26.0
+  priority: medium
+  reason: Standalone heist/revenge story in Abercrombie's grimdark First Law world.
+    Morally grey, no humor.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Gardens of the Moon
+  author: Steven Erikson
+  year: 1999
+  series: Malazan Book of the Fallen
+  series_number: 1
+  genre: fantasy
+  sub_genre: epic-fantasy
+  tags:
+  - epic-fantasy
+  - military-fantasy
+  - ambitious
+  audiobook_hours: 26.0
+  priority: medium
+  reason: Malazan is one of the most ambitious epic fantasy series ever written. Book
+    1 throws you in deep with no hand-holding — real DNF risk, but massive upside.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: The Name of the Wind
+  author: Patrick Rothfuss
+  year: 2007
+  series: The Kingkiller Chronicle
+  series_number: 1
+  genre: fantasy
+  sub_genre: epic-fantasy
+  tags:
+  - epic-fantasy
+  - magic-school
+  - literary-fantasy
+  audiobook_hours: 27.0
+  priority: medium
+  reason: Universally praised prose and worldbuilding. Risk flag — series unfinished
+    for 13+ years with no book 3 in sight.
+  source: audible-wishlist
+  series_status: ongoing
+  available_on_audible: true
+  note: Series has been unfinished since 2011, no release date for book 3
+- title: Seveneves
+  author: Neal Stephenson
+  year: 2015
+  genre: sci-fi
+  sub_genre: hard-sci-fi
+  tags:
+  - hard-sci-fi
+  - survival
+  - space
+  audiobook_hours: 32.0
+  priority: medium
+  reason: First 2/3 are gripping near-future survival (very Martian-ish). Last 1/3
+    jumps 5000 years and becomes dense worldbuilding — famously polarizing.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: A Wizard of Earthsea
+  author: Ursula K. Le Guin
+  year: 1968
+  series: Earthsea Cycle
+  series_number: 1
+  genre: fantasy
+  sub_genre: classic-fantasy
+  tags:
+  - classic-fantasy
+  - magic-school
+  - coming-of-age
+  audiobook_hours: 5.0
+  priority: low
+  reason: Short classic, coming-of-age magic school. Very different from usual reads
+    but foundational fantasy.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: The Dispossessed
+  author: Ursula K. Le Guin
+  year: 1974
+  genre: sci-fi
+  sub_genre: literary-sci-fi
+  tags:
+  - classic-sci-fi
+  - philosophical
+  - political
+  audiobook_hours: 13.0
+  priority: low
+  reason: Philosophical sci-fi about anarchism vs capitalism on twin worlds. Challenging
+    but rewarding.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: The Left Hand of Darkness
+  author: Ursula K. Le Guin
+  year: 1969
+  genre: sci-fi
+  sub_genre: literary-sci-fi
+  tags:
+  - classic-sci-fi
+  - philosophical
+  - literary
+  audiobook_hours: 10.0
+  priority: low
+  reason: Literary sci-fi exploring gender and identity. Slow and cerebral, very different
+    from usual reads.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: A Memory Called Empire
+  author: Arkady Martine
+  year: 2019
+  series: Teixcalaan
+  series_number: 1
+  genre: sci-fi
+  sub_genre: space-opera
+  tags:
+  - space-opera
+  - political
+  - literary-sci-fi
+  audiobook_hours: 16.0
+  priority: medium
+  reason: Hugo Award winner. Literary space opera about diplomacy and identity. Different
+    from usual but very well-crafted.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: A Desolation Called Peace
+  author: Arkady Martine
+  year: 2021
+  series: Teixcalaan
+  series_number: 2
+  genre: sci-fi
+  sub_genre: space-opera
+  tags:
+  - space-opera
+  - political
+  - literary-sci-fi
+  audiobook_hours: 17.0
+  priority: medium
+  reason: Hugo Award winner sequel to A Memory Called Empire. Read after book 1.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+  note: Read after A Memory Called Empire
+- title: Skyward
+  author: Brandon Sanderson
+  year: 2018
+  series: Skyward
+  series_number: 1
+  genre: sci-fi
+  sub_genre: military-sci-fi
+  tags:
+  - sci-fi
+  - military-sci-fi
+  - ya
+  - sanderson
+  audiobook_hours: 12.0
+  priority: medium
+  reason: Sanderson doing YA military sci-fi. Lighter than Stormlight but fun. Complete
+    series.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Fire and Blood
+  author: George R.R. Martin
+  year: 2018
+  series: Fire and Blood
+  series_number: 1
+  genre: fantasy
+  sub_genre: epic-fantasy
+  tags:
+  - epic-fantasy
+  - asoiaf
+  - history
+  - lore
+  audiobook_hours: 26.0
+  priority: high
+  reason: You loved ASOIAF. This is the Targaryen history that House of the Dragon
+    is based on — essential lore.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Kafka on the Shore
+  author: Haruki Murakami
+  year: 2002
+  genre: literary-fiction
+  sub_genre: surreal
+  tags:
+  - literary-fiction
+  - surreal
+  - philosophical
+  audiobook_hours: 19.0
+  priority: medium
+  reason: Surreal literary fiction, deliberately ambiguous. Very different from usual
+    reads but Sophie's World 9/10 shows you can do philosophical literary.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Think Again
+  author: Adam Grant
+  year: 2021
+  genre: non-fiction
+  sub_genre: psychology
+  series: standalone
+  tags:
+  - psychology
+  - rethinking
+  - big-ideas
+  audiobook_hours: 6.0
+  priority: high
+  reason: Psychology of rethinking and intellectual humility. Directly complements
+    How Minds Change.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: No Rules Rules
+  author: Reed Hastings, Erin Meyer
+  year: 2020
+  genre: non-fiction
+  sub_genre: leadership
+  series: standalone
+  tags:
+  - leadership
+  - culture
+  - tech
+  - netflix
+  audiobook_hours: 9.0
+  priority: high
+  reason: Netflix culture deep dive — radical transparency, no vacation policy. Fits
+    your leadership/culture shelf perfectly.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Leonardo Da Vinci
+  author: Walter Isaacson
+  year: 2017
+  genre: non-fiction
+  sub_genre: biography
+  series: standalone
+  tags:
+  - biography
+  - art
+  - science
+  - innovation
+  audiobook_hours: 17.0
+  priority: high
+  reason: You rated Isaacson's Steve Jobs and Elon Musk both 10/10. Same author, same
+    treatment of a singular genius.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: The Fearless Organization
+  author: Amy C. Edmondson
+  year: 2018
+  genre: non-fiction
+  sub_genre: leadership
+  series: standalone
+  tags:
+  - leadership
+  - psychological-safety
+  - management
+  - engineering-management
+  audiobook_hours: 6.0
+  priority: high
+  reason: The definitive book on psychological safety. Essential for engineering leadership.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: The Making of a Manager
+  author: Julie Zhuo
+  year: 2019
+  genre: non-fiction
+  sub_genre: leadership
+  series: standalone
+  tags:
+  - management
+  - tech-leadership
+  - engineering-management
+  audiobook_hours: 7.0
+  priority: high
+  reason: Practical first-time manager guide by ex-Facebook VP of Design. Very well-regarded
+    on tech leadership shelf.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Good to Great
+  author: Jim Collins
+  year: 2001
+  genre: non-fiction
+  sub_genre: strategy
+  series: standalone
+  tags:
+  - strategy
+  - business
+  - leadership
+  audiobook_hours: 10.0
+  priority: high
+  reason: Classic business strategy. Fits your 7 Powers / strategy shelf.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Accelerate
+  author: Nicole Forsgren, Jez Humble, Gene Kim
+  year: 2018
+  genre: non-fiction
+  sub_genre: engineering-management
+  series: standalone
+  tags:
+  - devops
+  - engineering-management
+  - tech-leadership
+  - research
+  audiobook_hours: 5.0
+  priority: high
+  reason: Gene Kim (you loved The Unicorn Project 10/10). Research-backed DevOps performance
+    science.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: The DevOps Handbook
+  author: Gene Kim, Jez Humble, Patrick Debois, John Willis
+  year: 2016
+  genre: non-fiction
+  sub_genre: engineering-management
+  series: standalone
+  tags:
+  - devops
+  - engineering-management
+  - tech-leadership
+  audiobook_hours: 12.0
+  priority: high
+  reason: The nonfiction companion to The Unicorn Project (your 10/10). Gene Kim's
+    definitive DevOps guide.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Atomic Habits
+  author: James Clear
+  year: 2018
+  genre: non-fiction
+  sub_genre: self-improvement
+  series: standalone
+  tags:
+  - habits
+  - self-improvement
+  - productivity
+  audiobook_hours: 5.5
+  priority: high
+  reason: The definitive habits book. Short and punchy, complements The Compound Effect.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Amazon Unbound
+  author: Brad Stone
+  year: 2021
+  genre: non-fiction
+  sub_genre: biography
+  series: standalone
+  tags:
+  - biography
+  - tech
+  - business
+  - amazon
+  audiobook_hours: 15.0
+  priority: medium
+  reason: Deep dive on Bezos and Amazon's expansion. Tech biography in the vein of
+    Steve Jobs / Elon Musk.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Surrender
+  author: Bono
+  year: 2022
+  genre: non-fiction
+  sub_genre: memoir
+  series: standalone
+  tags:
+  - memoir
+  - music
+  - activism
+  - entertainment
+  audiobook_hours: 19.0
+  priority: high
+  reason: Bono narrates himself. Highly rated memoir (4.3★/1695 ratings). Rock, activism,
+    grief, faith — deeply personal.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Team of Rivals
+  author: Doris Kearns Goodwin
+  year: 2005
+  genre: non-fiction
+  sub_genre: biography
+  series: standalone
+  tags:
+  - biography
+  - history
+  - politics
+  - leadership
+  audiobook_hours: 41.0
+  priority: medium
+  reason: Lincoln biography about building a cabinet from political enemies. Denser
+    historical scholarship than memoir but exceptional. Epic length.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Fooled by Randomness
+  author: Nassim Nicholas Taleb
+  year: 2001
+  genre: non-fiction
+  sub_genre: philosophy
+  series: standalone
+  tags:
+  - probability
+  - risk
+  - philosophy
+  - economics
+  audiobook_hours: 10.0
+  priority: medium
+  reason: You rated The Black Swan 8/10 — this is the companion/predecessor book,
+    same themes.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Tough
+  author: Terry Crews
+  year: 2022
+  genre: non-fiction
+  sub_genre: memoir
+  series: standalone
+  tags:
+  - memoir
+  - sports
+  - entertainment
+  - mental-health
+  audiobook_hours: 6.5
+  priority: medium
+  reason: NFL → Hollywood → activism memoir. Mental health themes similar to Spare
+    and Will Smith's memoir.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Supercommunicators
+  author: Charles Duhigg
+  year: 2024
+  genre: non-fiction
+  sub_genre: psychology
+  series: standalone
+  tags:
+  - communication
+  - psychology
+  - connection
+  audiobook_hours: 7.0
+  priority: high
+  reason: Science of high-stakes conversations. Fits your NVC / Never Split the Difference
+    / communication shelf.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: The Obstacle Is the Way
+  author: Ryan Holiday
+  year: 2014
+  genre: non-fiction
+  sub_genre: philosophy
+  series: standalone
+  tags:
+  - stoicism
+  - philosophy
+  - self-improvement
+  audiobook_hours: 4.0
+  priority: medium
+  reason: Stoicism applied to adversity. Short and practical.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Mindset
+  author: Carol Dweck
+  year: 2006
+  genre: non-fiction
+  sub_genre: psychology
+  series: standalone
+  tags:
+  - psychology
+  - growth-mindset
+  - self-improvement
+  audiobook_hours: 7.5
+  priority: medium
+  reason: Growth vs fixed mindset classic. Fits your Grit/Range psychology shelf.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Switch
+  author: Chip Heath, Dan Heath
+  year: 2010
+  genre: non-fiction
+  sub_genre: psychology
+  series: standalone
+  tags:
+  - psychology
+  - change-management
+  - behavior
+  audiobook_hours: 7.5
+  priority: medium
+  reason: Psychology of behavior change. Practical and well-regarded.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: How Fascism Works
+  author: Jason Stanley
+  year: 2018
+  genre: non-fiction
+  sub_genre: politics
+  series: standalone
+  tags:
+  - politics
+  - history
+  - society
+  audiobook_hours: 5.0
+  priority: medium
+  reason: Scholarly but accessible breakdown of fascist politics and rhetoric. Timely.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: The Uninhabitable Earth
+  author: David Wallace-Wells
+  year: 2019
+  genre: non-fiction
+  sub_genre: science
+  series: standalone
+  tags:
+  - climate
+  - science
+  - big-ideas
+  audiobook_hours: 8.0
+  priority: medium
+  reason: Comprehensive and alarming account of climate change futures. Big-ideas
+    nonfiction.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: You Are Not So Smart
+  author: David McRaney
+  year: 2011
+  genre: non-fiction
+  sub_genre: psychology
+  series: standalone
+  tags:
+  - psychology
+  - cognitive-biases
+  - self-delusion
+  audiobook_hours: 8.0
+  priority: medium
+  reason: McRaney's earlier work on self-delusion and cognitive biases. Slightly redundant
+    with How Minds Change but still solid.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: What We Owe the Future
+  author: William MacAskill
+  year: 2022
+  genre: non-fiction
+  sub_genre: philosophy
+  series: standalone
+  tags:
+  - philosophy
+  - ethics
+  - longtermism
+  - big-ideas
+  audiobook_hours: 8.0
+  priority: medium
+  reason: Effective altruism / longtermism philosophy. Big-ideas nonfiction adjacent
+    to Homo Deus / Nexus shelf.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: The Demon-Haunted World
+  author: Carl Sagan
+  year: 1995
+  genre: non-fiction
+  sub_genre: science
+  series: standalone
+  tags:
+  - science
+  - skepticism
+  - philosophy
+  - critical-thinking
+  audiobook_hours: 14.0
+  priority: medium
+  reason: Classic defense of science and critical thinking against pseudoscience.
+    Timeless.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: How to Know a Person
+  author: David Brooks
+  year: 2023
+  genre: non-fiction
+  sub_genre: psychology
+  series: standalone
+  tags:
+  - psychology
+  - empathy
+  - communication
+  - relationships
+  audiobook_hours: 8.0
+  priority: medium
+  reason: How to truly see and understand others. Fits communication/psychology shelf.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: A coragem de não agradar
+  author: Ichiro Kishimi, Fumitake Koga
+  year: 2013
+  genre: non-fiction
+  sub_genre: psychology
+  series: standalone
+  tags:
+  - psychology
+  - adlerian
+  - philosophy
+  - portuguese
+  audiobook_hours: 6.0
+  priority: medium
+  reason: Portuguese edition of The Courage to Be Disliked. Adlerian psychology in
+    dialogue format. Fits psychology shelf.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Raising Good Humans
+  author: Hunter Clarke-Fields
+  year: 2019
+  genre: non-fiction
+  sub_genre: parenting
+  series: standalone
+  tags:
+  - parenting
+  - mindfulness
+  - child-development
+  audiobook_hours: 6.0
+  priority: medium
+  reason: Mindful parenting — breaking reactive cycles. Fits your strong parenting
+    shelf.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: Raising Boys in the 21st Century
+  author: Steve Biddulph
+  year: 2018
+  genre: non-fiction
+  sub_genre: parenting
+  series: standalone
+  tags:
+  - parenting
+  - boys
+  - child-development
+  audiobook_hours: 7.0
+  priority: medium
+  reason: Specific to raising boys. Fits parenting shelf.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
+- title: The Toyota Way to Lean Leadership
+  author: Jeffrey Liker, Gary Convis
+  year: 2011
+  genre: non-fiction
+  sub_genre: leadership
+  series: standalone
+  tags:
+  - leadership
+  - lean
+  - manufacturing
+  - management
+  audiobook_hours: 8.0
+  priority: medium
+  reason: You rated The Toyota Way 9/10 — this is the leadership-focused companion
+    book by same author.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: true
