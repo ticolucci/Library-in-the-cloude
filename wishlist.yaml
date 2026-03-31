@@ -1,4 +1,22 @@
 wishlist:
+- title: Crafting Engineering Strategy
+  author: Will Larson
+  year: 2025
+  genre: non-fiction
+  sub_genre: engineering-management
+  series: standalone
+  tags:
+  - engineering-management
+  - tech-leadership
+  - strategy
+  - systems-thinking
+  audiobook_hours: null
+  priority: high
+  reason: Will Larson (An Elegant Puzzle, Staff Engineer) on building actionable engineering strategies. Real-world cases from Stripe, Uber, Calm. Fits your tech leadership shelf perfectly.
+  source: audible-wishlist
+  series_status: complete
+  available_on_audible: false
+  note: No audiobook version found as of March 2026 — ebook/print only via O'Reilly
 - title: Starter Villain
   author: John Scalzi
   year: 2023
