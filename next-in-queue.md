@@ -26,11 +26,11 @@
 
 -----
 
-## 3 · A Practical Guide to Sorcery
+## 3 · The Will of the Many
 
-**Author:** Azalea Ellis · **Year:** 2022 · **Length:** 23h  
-**Genre:** Progression Fantasy · **Series:** A Practical Guide to Sorcery #1 (ongoing)  
-**Tags:** progression-fantasy, hard-magic, web-serial  
+**Author:** James Islington · **Year:** 2023 · **Length:** 22h  
+**Genre:** Epic Fantasy · **Series:** Hierarchy #1 (ongoing, book 2 out Nov 2025)  
+**Tags:** epic-fantasy, mystery, political  
 **On Audible:** ✅
 
-**Why now:** First longer commitment in the queue. Hard magic system (your top signal for 10/10s) + progression fantasy. Web-serial origin means a long series waiting if it clicks.
+**Why now:** Same author, momentum is fresh off the Licanius Trilogy. Considered Islington's best work — tighter pacing, better show-don't-tell than Licanius. Roman-inspired infiltration mystery that plays to the same setup/payoff strengths you loved, and book 2 is already waiting if it clicks.
