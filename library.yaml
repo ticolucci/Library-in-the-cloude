@@ -1339,7 +1339,7 @@ library:
   year: 2014
   series: The Licanius Trilogy
   series_number: 1
-  series_status: plan-to-continue
+  series_status: complete
   rating: 9
   status: read
   format: audiobook
@@ -1352,6 +1352,44 @@ library:
   genre: fantasy
   sub_genre: epic-fantasy
   audiobook_hours: 25.0
+  potential_reread: false
+- title: An Echo of Things to Come
+  author: James Islington
+  year: 2016
+  series: The Licanius Trilogy
+  series_number: 2
+  series_status: complete
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - time-travel
+  - mystery
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 27.0
+  potential_reread: false
+- title: The Light of All That Falls
+  author: James Islington
+  year: 2019
+  series: The Licanius Trilogy
+  series_number: 3
+  series_status: complete
+  rating: 8
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - time-travel
+  - mystery
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 29.0
   potential_reread: false
 - title: Red Rising
   author: Pierce Brown
