@@ -1,4 +1,123 @@
 wishlist:
+- title: Playing to Win
+  author: A.G. Lafley, Roger L. Martin
+  year: 2013
+  genre: non-fiction
+  sub_genre: strategy
+  series: standalone
+  tags:
+  - strategy
+  - business
+  - frameworks
+  - leadership
+  audiobook_hours: 6.5
+  priority: high
+  reason: The structured answer to what Good Strategy Bad Strategy left vague. Five
+    cascading strategic choices with actual scaffolding — where to play, how to win,
+    what capabilities you need. The top recommendation after GS/BS.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+
+- title: The Art of War
+  author: Sun Tzu
+  year: 500
+  genre: non-fiction
+  sub_genre: strategy
+  series: standalone
+  tags:
+  - strategy
+  - military
+  - philosophy
+  - classic
+  audiobook_hours: 1.0
+  priority: low
+  reason: Ancient military strategy that maps surprisingly well to business positioning
+    and asymmetric advantage thinking. Narrated by Aidan Gillen (Littlefinger) on
+    Audible — best version available.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+
+- title: Zero to One
+  author: Peter Thiel, Blake Masters
+  year: 2014
+  genre: non-fiction
+  sub_genre: strategy
+  series: standalone
+  tags:
+  - strategy
+  - entrepreneurship
+  - tech
+  - monopoly
+  audiobook_hours: 4.75
+  priority: medium
+  reason: Contrarian framework for building monopolies vs competing in crowded markets.
+    Opinionated and occasionally wrong but forces principled thinking on differentiation.
+    Short, punchy, narrated by Blake Masters.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+
+- title: "The Crux: How Leaders Become Strategists"
+  author: Richard P. Rumelt
+  year: 2022
+  genre: non-fiction
+  sub_genre: strategy
+  series: standalone
+  tags:
+  - strategy
+  - leadership
+  - business
+  - frameworks
+  audiobook_hours: 11.0
+  priority: high
+  reason: Rumelt's follow-up to Good Strategy Bad Strategy — more concrete, more practical,
+    directly addresses the frustration that GSBS felt like pattern labeling without
+    enough scaffolding. Reviewers say this one is better.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+
+- title: "Execution: The Discipline of Getting Things Done"
+  author: Larry Bossidy, Ram Charan
+  year: 2002
+  genre: non-fiction
+  sub_genre: leadership
+  series: standalone
+  tags:
+  - leadership
+  - execution
+  - management
+  - strategy
+  audiobook_hours: 8.25
+  priority: medium
+  reason: Where strategy books stop, this one starts. Links people, strategy, and
+    operations — the three processes that determine whether a strategy actually lands.
+    Practitioner-heavy, narrated by the authors.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+
+- title: Secrets of Sand Hill Road
+  author: Scott Kupor
+  year: 2019
+  genre: non-fiction
+  sub_genre: strategy
+  series: standalone
+  tags:
+  - venture-capital
+  - strategy
+  - tech
+  - entrepreneurship
+  audiobook_hours: 9.75
+  priority: low
+  reason: VC insider guide from Andreessen Horowitz managing partner. Less about strategy
+    frameworks, more about how capital allocation decisions are made. Useful pattern
+    recognition if startup/investment thinking is relevant.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
 - title: Crafting Engineering Strategy
   author: Will Larson
   year: 2025
