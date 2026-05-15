@@ -116,6 +116,42 @@ library:
   sub_genre: epic-fantasy
   audiobook_hours: 24.0
   potential_reread: false
+- title: An Echo of Things to Come
+  author: James Islington
+  year: 2017
+  series: The Licanius Trilogy
+  series_number: 2
+  rating: 8
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - time-travel
+  - mystery
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 26.5
+  potential_reread: false
+- title: The Light of All That Falls
+  author: James Islington
+  year: 2019
+  series: The Licanius Trilogy
+  series_number: 3
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - epic-fantasy
+  - time-travel
+  - mystery
+  reread: false
+  genre: fantasy
+  sub_genre: epic-fantasy
+  audiobook_hours: 30.5
+  potential_reread: false
 - title: Elantris
   author: Brandon Sanderson
   year: 2005
