@@ -3799,4 +3799,80 @@ library:
   sub_genre: litrpg
   audiobook_hours: 48.0
   potential_reread: false
+- title: '1% Lifesteal'
+  author: Robert Blaise
+  year: 2025
+  series: 1% Lifesteal
+  series_number: 1
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - apocalyptic
+  - weak-to-strong
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 16.5
+  potential_reread: false
+- title: '1% Lifesteal, Volume 2'
+  author: Robert Blaise
+  year: 2025
+  series: 1% Lifesteal
+  series_number: 2
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - apocalyptic
+  - weak-to-strong
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 20.0
+  potential_reread: false
+- title: '1% Lifesteal, Volume 3'
+  author: Robert Blaise
+  year: 2025
+  series: 1% Lifesteal
+  series_number: 3
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - apocalyptic
+  - weak-to-strong
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 23.0
+  potential_reread: false
+- title: '1% Lifesteal, Volume 4'
+  author: Robert Blaise
+  year: 2026
+  series: 1% Lifesteal
+  series_number: 4
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - apocalyptic
+  - weak-to-strong
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 18.0
+  potential_reread: false
 
