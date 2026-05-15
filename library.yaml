@@ -3499,4 +3499,304 @@ library:
   reread: false
   sub_genre: epic-fantasy
   potential_reread: false
+- title: Winter Solstice
+  author: Pirateaba
+  year: 2021
+  series: The Wandering Inn
+  series_number: 4
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 34.0
+  potential_reread: false
+- title: The Last Light
+  author: Pirateaba
+  year: 2021
+  series: The Wandering Inn
+  series_number: 5
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 52.0
+  potential_reread: false
+- title: The General of Izril
+  author: Pirateaba
+  year: 2022
+  series: The Wandering Inn
+  series_number: 6
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 40.0
+  potential_reread: false
+- title: Rains of Liscor
+  author: Pirateaba
+  year: 2022
+  series: The Wandering Inn
+  series_number: 7
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 40.0
+  potential_reread: false
+- title: Blood of Liscor
+  author: Pirateaba
+  year: 2022
+  series: The Wandering Inn
+  series_number: 8
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 43.0
+  potential_reread: false
+- title: Tears of Liscor
+  author: Pirateaba
+  year: 2023
+  series: The Wandering Inn
+  series_number: 9
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 40.0
+  potential_reread: false
+- title: The Wind Runner
+  author: Pirateaba
+  year: 2023
+  series: The Wandering Inn
+  series_number: 10
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 40.0
+  potential_reread: false
+- title: The Titan of Baleros
+  author: Pirateaba
+  year: 2023
+  series: The Wandering Inn
+  series_number: 11
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 42.0
+  potential_reread: false
+- title: The Witch of Webs
+  author: Pirateaba
+  year: 2024
+  series: The Wandering Inn
+  series_number: 12
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 46.0
+  potential_reread: false
+- title: The Empress of Beasts
+  author: Pirateaba
+  year: 2024
+  series: The Wandering Inn
+  series_number: 13
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 44.0
+  potential_reread: false
+- title: Hell's Wardens
+  author: Pirateaba
+  year: 2024
+  series: The Wandering Inn
+  series_number: 14
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 44.0
+  potential_reread: false
+- title: Garden of Sanctuary
+  author: Pirateaba
+  year: 2025
+  series: The Wandering Inn
+  series_number: 15
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 44.0
+  potential_reread: false
+- title: King of Duels
+  author: Pirateaba
+  year: 2025
+  series: The Wandering Inn
+  series_number: 16
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 44.0
+  potential_reread: false
+- title: Lady of Fire
+  author: Pirateaba
+  year: 2025
+  series: The Wandering Inn
+  series_number: 17
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 46.0
+  potential_reread: false
+- title: Archmage's Ire
+  author: Pirateaba
+  year: 2026
+  series: The Wandering Inn
+  series_number: 18
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 48.0
+  potential_reread: false
 
