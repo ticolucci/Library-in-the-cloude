@@ -3937,7 +3937,7 @@ library:
   year: 2026
   series: The Path of Ascension
   series_number: 10.5
-  rating: null
+  rating: 4
   status: read
   format: audiobook
   source: audible
@@ -3956,7 +3956,7 @@ library:
   year: 2026
   series: The Path of Ascension
   series_number: 11
-  rating: null
+  rating: 7
   status: read
   format: audiobook
   source: audible
@@ -3975,7 +3975,7 @@ library:
   year: 2026
   series: Dungeon Crawler Carl
   series_number: 8
-  rating: null
+  rating: 10
   status: read
   format: audiobook
   source: audible
