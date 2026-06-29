@@ -3911,4 +3911,83 @@ library:
   sub_genre: litrpg
   audiobook_hours: 18.0
   potential_reread: false
+- title: Couriers Outbound
+  author: Pirateaba
+  year: 2026
+  series: The Wandering Inn
+  series_number: 19
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - isekai
+  - slice-of-life
+  - epic-fantasy
+  - web-serial
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 42.5
+  potential_reread: false
+
+- title: The Path of Ascension Book 10.5
+  author: C. Mantis
+  year: 2026
+  series: The Path of Ascension
+  series_number: 10.5
+  rating: null
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - xianxia
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 4.75
+  potential_reread: false
+
+- title: The Path of Ascension 11
+  author: C. Mantis
+  year: 2026
+  series: The Path of Ascension
+  series_number: 11
+  rating: null
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - progression-fantasy
+  - xianxia
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 29.0
+  potential_reread: false
+
+- title: A Parade of Horribles
+  author: Matt Dinniman
+  year: 2026
+  series: Dungeon Crawler Carl
+  series_number: 8
+  rating: null
+  status: read
+  format: audiobook
+  source: audible
+  tags:
+  - litrpg
+  - humor
+  - apocalyptic
+  - progression-fantasy
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 20.5
+  potential_reread: false
+
 
