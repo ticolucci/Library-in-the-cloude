@@ -3989,5 +3989,40 @@ library:
   sub_genre: litrpg
   audiobook_hours: 20.5
   potential_reread: false
+- title: Team of Teams
+  author: General Stanley McChrystal
+  year: 2015
+  series: standalone
+  series_number: null
+  universe: null
+  rating: 10
+  status: read
+  date_read: 2026-07-05
+  format: audiobook
+  source: audible
+  tags: [leadership, military, management, org-design]
+  reread: false
+  genre: non-fiction
+  sub_genre: leadership
+  audiobook_hours: 12.0
+  potential_reread: true
+
+- title: The Infinite Game
+  author: Simon Sinek
+  year: 2019
+  series: standalone
+  series_number: null
+  universe: null
+  rating: 6
+  status: read
+  date_read: 2026-07-05
+  format: audiobook
+  source: audible
+  tags: [strategy, leadership, business]
+  reread: false
+  genre: non-fiction
+  sub_genre: strategy
+  audiobook_hours: 6.5
+  potential_reread: false
 
 
