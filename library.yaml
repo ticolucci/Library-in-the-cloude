@@ -4024,5 +4024,31 @@ library:
   sub_genre: strategy
   audiobook_hours: 6.5
   potential_reread: false
+- title: "The Courage to Be Disliked"
+  author: "Ichiro Kishimi, Fumitake Koga"
+  year: 2013
+  genre: non-fiction
+  sub_genre: psychology
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags: [psychology, philosophy, narrative, adlerian, dialogue-format]
+  reread: false
+  audiobook_hours: 6.5
+  potential_reread: false
+
+- title: "Marriage and Lasting Relationships with Asperger's Syndrome"
+  author: "Eva A. Mendes"
+  year: 2015
+  genre: non-fiction
+  sub_genre: psychology
+  rating: 6
+  status: dnf
+  format: audiobook
+  source: audible
+  tags: [autism, relationships, psychology, self-help]
+  reread: false
+  potential_reread: false
 
 
