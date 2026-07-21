@@ -1563,3 +1563,22 @@ wishlist:
   source: recommendation
   series_status: ongoing
   available_on_audible: true
+- title: The City of Brass
+  author: S. A. Chakraborty
+  year: 2017
+  genre: fantasy
+  sub_genre: epic-fantasy
+  series: The Daevabad Trilogy
+  series_number: 1
+  tags:
+  - djinn
+  - political
+  - mythology
+  - epic-fantasy
+  audiobook_hours: 20.0
+  priority: medium
+  reason: Highly rated epic fantasy built on Middle Eastern/Islamic mythology instead of the usual Western tropes. Complete trilogy (no unfinished-series risk), politically dense in the vein of ASOIAF.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+
