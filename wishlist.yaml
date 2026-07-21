@@ -1410,3 +1410,156 @@ wishlist:
   source: audible-wishlist
   series_status: complete
   available_on_audible: true
+- title: Think Faster, Talk Smarter
+  author: Matt Abrahams
+  year: 2023
+  genre: non-fiction
+  sub_genre: communication
+  series: standalone
+  tags:
+  - communication
+  - psychology
+  - public-speaking
+  audiobook_hours: 7.25
+  priority: medium
+  reason: Short, practical communication book. Fits shelf alongside Never Split the Difference and Nonviolent Communication.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+
+- title: 'Nudge: The Final Edition'
+  author: Richard H. Thaler, Cass R. Sunstein
+  year: 2021
+  genre: non-fiction
+  sub_genre: behavioral-economics
+  series: standalone
+  tags:
+  - psychology
+  - behavioral-economics
+  - decision-making
+  audiobook_hours: 11.5
+  priority: medium
+  reason: Behavioral economics classic on choice architecture. Complements Thinking, Fast and Slow (10/10).
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+
+- title: How Emotions Are Made
+  author: Lisa Feldman Barrett
+  year: 2017
+  genre: non-fiction
+  sub_genre: neuroscience
+  series: standalone
+  tags:
+  - neuroscience
+  - psychology
+  - emotions
+  audiobook_hours: 14.5
+  priority: medium
+  reason: Interesting premise on emotion science, but reviewers flag it as dense and repetitive (study after study) — similar risk pattern to the Mendes DNF.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+
+- title: The Let Them Theory
+  author: Mel Robbins
+  year: 2024
+  genre: non-fiction
+  sub_genre: self-improvement
+  series: standalone
+  tags:
+  - self-help
+  - psychology
+  - boundaries
+  audiobook_hours: 10.75
+  priority: medium
+  reason: Viral self-help framework on letting go of others' opinions. Author-narrated.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+
+- title: Think and Grow Rich
+  author: Napoleon Hill
+  year: 1937
+  genre: non-fiction
+  sub_genre: self-improvement
+  series: standalone
+  tags:
+  - self-improvement
+  - classic
+  - motivation
+  audiobook_hours: 9.5
+  priority: low
+  reason: Foundational success-literature classic, though dated in style. Multiple Audible editions exist (abridged and unabridged) — check narrator before buying.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+
+- title: Dopamine Nation
+  author: Anna Lembke
+  year: 2021
+  genre: non-fiction
+  sub_genre: neuroscience
+  series: standalone
+  tags:
+  - psychology
+  - addiction
+  - neuroscience
+  audiobook_hours: 6.25
+  priority: high
+  reason: Short, punchy, author-narrated. Fits your pattern of nonfiction hitting harder when shorter.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+
+- title: How Big Things Get Done
+  author: Bent Flyvbjerg, Dan Gardner
+  year: 2023
+  genre: non-fiction
+  sub_genre: strategy
+  series: standalone
+  tags:
+  - strategy
+  - planning
+  - business
+  audiobook_hours: 7.25
+  priority: high
+  reason: Kahneman-endorsed. Fits your strategy shelf alongside 7 Powers and Good Strategy/Bad Strategy.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+
+- title: Clear Thinking
+  author: Shane Parrish
+  year: 2023
+  genre: non-fiction
+  sub_genre: psychology
+  series: standalone
+  tags:
+  - psychology
+  - decision-making
+  - mental-models
+  audiobook_hours: 6.75
+  priority: high
+  reason: Decision-making shelf, complements Thinking Fast and Slow / Decisive. Short and punchy.
+  source: recommendation
+  series_status: complete
+  available_on_audible: true
+- title: Fourth Wing
+  author: Rebecca Yarros
+  year: 2023
+  genre: fantasy
+  sub_genre: romantasy
+  series: The Empyrean
+  series_number: 1
+  tags:
+  - dragons
+  - romance
+  - magic-school
+  - progression-fantasy
+  audiobook_hours: 21.4
+  priority: medium
+  reason: Massively popular dragon-rider romantasy, war-college setting has some magic-school/progression DNA. Heavier on romance than your usual picks — worth a try given the hype, but not a guaranteed fit.
+  source: recommendation
+  series_status: ongoing
+  available_on_audible: true
