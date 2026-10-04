@@ -4,33 +4,33 @@
 
 -----
 
-## 1 · Legends & Lattes
+## 1 · The Vexed Generation
 
-**Author:** Travis Baldree · **Year:** 2022 · **Length:** 9h  
-**Genre:** Cozy Fantasy · **Series:** Standalone  
-**Tags:** slice-of-life, cozy, humor  
+**Author:** Scott Meyer · **Year:** 2019 · **Length:** short (not confirmed on Audible)  
+**Genre:** Comic Fantasy · **Series:** Magic 2.0 #6 (final book)  
+**Tags:** humor, fantasy, time-travel, programmer  
 **On Audible:** ✅
 
-**Why now:** Short, warm, zero commitment — perfect palate cleanser after a long series. Same slice-of-life + humor DNA as Beware of Chicken.
+**Why now:** You rated Magic 2.0 books 1-5 a 9, 10, 9, 9, 10, and this is the last one. It's a new generation of characters, Luke Daniels is still narrating, and it closes the series with no cliffhanger risk.
 
 -----
 
-## 2 · Off to Be the Wizard
-
-**Author:** Scott Meyer · **Year:** 2014 · **Length:** 10h  
-**Genre:** Comic Fantasy · **Series:** Magic 2.0 #1 (8 books, complete)  
-**Tags:** humor, fantasy, programmer, time-travel  
-**On Audible:** ✅
-
-**Why now:** Short and funny like Starter Villain, but with 8 complete books waiting if it clicks. Programmer-discovers-reality-is-a-simulation premise is tailor-made for your taste — systems thinking wrapped in comedy. No cliffhanger risk since the series is finished.
-
------
-
-## 3 · A Practical Guide to Sorcery
+## 2 · A Practical Guide to Sorcery
 
 **Author:** Azalea Ellis · **Year:** 2022 · **Length:** 23h  
 **Genre:** Progression Fantasy · **Series:** A Practical Guide to Sorcery #1 (ongoing)  
 **Tags:** progression-fantasy, hard-magic, web-serial  
 **On Audible:** ✅
 
-**Why now:** First longer commitment in the queue. Hard magic system (your top signal for 10/10s) + progression fantasy. Web-serial origin means a long series waiting if it clicks.
+**Why now:** This is your pick from the old queue, and it's still unread. Hard magic and progression are a strong combo for you (Mark of the Fool 9, All the Skills 6 at 10). It's a longer commitment, so it comes after a quick win.
+
+-----
+
+## 3 · Trillion Dollar Coach
+
+**Author:** Eric Schmidt, Jonathan Rosenberg, Alan Eagle · **Year:** 2019 · **Length:** 6.5h  
+**Genre:** Non-fiction (Leadership) · **Series:** Standalone  
+**Tags:** leadership, tech, coaching, biography  
+**On Audible:** ✅
+
+**Why now:** Your last two leadership books were both 10s (Team of Teams, Turn the Ship Around!). This keeps that streak going with a practitioner story rather than a framework book, which matters because the framework-heavy ones scored 5-7 (Good Strategy/Bad Strategy, The Infinite Game, Good to Great).
