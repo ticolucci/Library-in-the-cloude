@@ -4050,5 +4050,176 @@ library:
   tags: [autism, relationships, psychology, self-help]
   reread: false
   potential_reread: false
+- title: Off to Be the Wizard
+  author: Scott Meyer
+  year: 2013
+  series: Magic 2.0
+  series_number: 1
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags: [humor, time-travel, fantasy, sci-fi]
+  reread: false
+  genre: fantasy
+  sub_genre: comic-fantasy
+  audiobook_hours: 10.75
+  potential_reread: false
+- title: Spell or High Water
+  author: Scott Meyer
+  year: 2014
+  series: Magic 2.0
+  series_number: 2
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags: [humor, time-travel, fantasy, sci-fi]
+  reread: false
+  genre: fantasy
+  sub_genre: comic-fantasy
+  audiobook_hours: 11.65
+  potential_reread: false
+- title: An Unwelcome Quest
+  author: Scott Meyer
+  year: 2015
+  series: Magic 2.0
+  series_number: 3
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags: [humor, time-travel, fantasy, sci-fi]
+  reread: false
+  genre: fantasy
+  sub_genre: comic-fantasy
+  audiobook_hours: 11.75
+  potential_reread: false
+- title: Fight and Flight
+  author: Scott Meyer
+  year: 2017
+  series: Magic 2.0
+  series_number: 4
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags: [humor, time-travel, fantasy, sci-fi, dragons]
+  reread: false
+  genre: fantasy
+  sub_genre: comic-fantasy
+  audiobook_hours: 10.45
+  potential_reread: false
+- title: Out of Spite, Out of Mind
+  author: Scott Meyer
+  year: 2018
+  series: Magic 2.0
+  series_number: 5
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags: [humor, time-travel, fantasy, sci-fi]
+  reread: false
+  genre: fantasy
+  sub_genre: comic-fantasy
+  audiobook_hours: 7.55
+  potential_reread: false
+- title: The Lies of Locke Lamora
+  author: Scott Lynch
+  year: 2006
+  series: Gentleman Bastard
+  series_number: 1
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags: [fantasy, heist, crime]
+  reread: false
+  genre: fantasy
+  sub_genre: heist-fantasy
+  audiobook_hours: 22.6
+  potential_reread: false
+- title: 'All the Skills 6: A Deck-Building LitRPG'
+  author: Honour Rae
+  year: 2026
+  series: All the Skills
+  series_number: 6
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags: [litrpg, progression-fantasy, card-magic, dragons]
+  reread: false
+  genre: fantasy
+  sub_genre: litrpg
+  audiobook_hours: 11.25
+  potential_reread: false
+- title: Mark of the Fool
+  author: J.M. Clarke
+  year: 2022
+  series: Mark of the Fool
+  series_number: 1
+  rating: 9
+  status: read
+  format: audiobook
+  source: audible
+  tags: [progression-fantasy, magic-school]
+  reread: false
+  genre: fantasy
+  sub_genre: progression-fantasy
+  audiobook_hours: 19.0
+  potential_reread: false
+- title: Turn the Ship Around!
+  author: L. David Marquet
+  year: 2012
+  genre: non-fiction
+  rating: 10
+  status: read
+  format: audiobook
+  source: audible
+  tags: [leadership, military, management]
+  reread: false
+  sub_genre: leadership
+  audiobook_hours: 6.45
+  potential_reread: false
+- title: Good to Great
+  author: Jim Collins
+  year: 2001
+  genre: non-fiction
+  rating: 7
+  status: read
+  format: audiobook
+  source: audible
+  tags: [business, strategy, leadership]
+  reread: false
+  sub_genre: strategy
+  audiobook_hours: 10.0
+  potential_reread: false
+- title: Can't Hurt Me
+  author: David Goggins
+  year: 2018
+  genre: non-fiction
+  rating: 8
+  status: read
+  format: audiobook
+  source: audible
+  tags: [memoir, self-improvement, military]
+  reread: false
+  sub_genre: memoir
+  audiobook_hours: 13.6
+  potential_reread: false
+- title: Reinventing Organizations
+  author: Frederic Laloux
+  year: 2014
+  genre: non-fiction
+  rating: 8
+  status: read
+  format: audiobook
+  source: reinventingorganizations.com
+  tags: [organization, management, leadership, org-design]
+  reread: false
+  sub_genre: leadership
+  potential_reread: false
 
 
