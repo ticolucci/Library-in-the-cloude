@@ -4221,5 +4221,20 @@ library:
   reread: false
   sub_genre: leadership
   potential_reread: false
+- title: Legends & Lattes
+  author: Travis Baldree
+  year: 2022
+  series: Legends & Lattes
+  series_number: 1
+  rating: 4
+  status: dnf
+  format: audiobook
+  source: audible
+  tags: [cozy-fantasy, slice-of-life, romance]
+  reread: false
+  genre: fantasy
+  sub_genre: cozy-fantasy
+  audiobook_hours: 7.3
+  potential_reread: false
 
 
